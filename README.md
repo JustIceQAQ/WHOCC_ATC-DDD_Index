@@ -1,9 +1,17 @@
 # WHOCC_ATC-DDD_Index
-Used Python Web Crawler for WHOCC ATC/DDD Index 
+Used Python3 Web Crawler for WHOCC ATC/DDD Index 
+- package:
+  - requests
+  - BeautifulSoup
+  - pandas
+  - string
+  - tqdm
+  - numpy
+
 
 WHOCC URL https://www.whocc.no/atc_ddd_index/?code=
 
-I used uppercase select ATC/DDD Data
+I used uppercase search ATC/DDD Data.
 
 Like this:
 
