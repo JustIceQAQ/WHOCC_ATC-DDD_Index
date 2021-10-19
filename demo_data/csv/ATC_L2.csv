@@ -1,0 +1,95 @@
+code_name,href,context
+A01,/?code=A01&showdescription=yes,STOMATOLOGICAL PREPARATIONS
+A02,/?code=A02&showdescription=yes,DRUGS FOR ACID RELATED DISORDERS
+A03,/?code=A03&showdescription=yes,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS
+A04,/?code=A04&showdescription=yes,ANTIEMETICS AND ANTINAUSEANTS
+A05,/?code=A05&showdescription=yes,BILE AND LIVER THERAPY
+A06,/?code=A06&showdescription=yes,DRUGS FOR CONSTIPATION
+A07,/?code=A07&showdescription=yes,"ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS"
+A08,/?code=A08&showdescription=yes,"ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS"
+A09,/?code=A09&showdescription=yes,"DIGESTIVES, INCL. ENZYMES"
+A10,/?code=A10&showdescription=yes,DRUGS USED IN DIABETES
+A11,/?code=A11&showdescription=yes,VITAMINS
+A12,/?code=A12&showdescription=yes,MINERAL SUPPLEMENTS
+A13,/?code=A13&showdescription=yes,TONICS
+A14,/?code=A14&showdescription=yes,ANABOLIC AGENTS FOR SYSTEMIC USE
+A15,/?code=A15&showdescription=yes,APPETITE STIMULANTS
+A16,/?code=A16&showdescription=yes,OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS
+B01,/?code=B01&showdescription=yes,ANTITHROMBOTIC AGENTS
+B02,/?code=B02&showdescription=yes,ANTIHEMORRHAGICS
+B03,/?code=B03&showdescription=yes,ANTIANEMIC PREPARATIONS
+B05,/?code=B05&showdescription=yes,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS
+B06,/?code=B06&showdescription=yes,OTHER HEMATOLOGICAL AGENTS
+C01,/?code=C01&showdescription=yes,CARDIAC THERAPY
+C02,/?code=C02&showdescription=yes,ANTIHYPERTENSIVES
+C03,/?code=C03&showdescription=yes,DIURETICS
+C04,/?code=C04&showdescription=yes,PERIPHERAL VASODILATORS
+C05,/?code=C05&showdescription=yes,VASOPROTECTIVES
+C07,/?code=C07&showdescription=yes,BETA BLOCKING AGENTS
+C08,/?code=C08&showdescription=yes,CALCIUM CHANNEL BLOCKERS
+C09,/?code=C09&showdescription=yes,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM
+C10,/?code=C10&showdescription=yes,LIPID MODIFYING AGENTS
+D01,/?code=D01&showdescription=yes,ANTIFUNGALS FOR DERMATOLOGICAL USE
+D02,/?code=D02&showdescription=yes,EMOLLIENTS AND PROTECTIVES
+D03,/?code=D03&showdescription=yes,PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS
+D04,/?code=D04&showdescription=yes,"ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC."
+D05,/?code=D05&showdescription=yes,ANTIPSORIATICS
+D06,/?code=D06&showdescription=yes,ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE
+D07,/?code=D07&showdescription=yes,"CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS"
+D08,/?code=D08&showdescription=yes,ANTISEPTICS AND DISINFECTANTS
+D09,/?code=D09&showdescription=yes,MEDICATED DRESSINGS
+D10,/?code=D10&showdescription=yes,ANTI-ACNE PREPARATIONS
+D11,/?code=D11&showdescription=yes,OTHER DERMATOLOGICAL PREPARATIONS
+G01,/?code=G01&showdescription=yes,GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS
+G02,/?code=G02&showdescription=yes,OTHER GYNECOLOGICALS
+G03,/?code=G03&showdescription=yes,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+G04,/?code=G04&showdescription=yes,UROLOGICALS
+H01,/?code=H01&showdescription=yes,PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES
+H02,/?code=H02&showdescription=yes,CORTICOSTEROIDS FOR SYSTEMIC USE
+H03,/?code=H03&showdescription=yes,THYROID THERAPY
+H04,/?code=H04&showdescription=yes,PANCREATIC HORMONES
+H05,/?code=H05&showdescription=yes,CALCIUM HOMEOSTASIS
+J01,/?code=J01&showdescription=yes,ANTIBACTERIALS FOR SYSTEMIC USE
+J02,/?code=J02&showdescription=yes,ANTIMYCOTICS FOR SYSTEMIC USE
+J04,/?code=J04&showdescription=yes,ANTIMYCOBACTERIALS
+J05,/?code=J05&showdescription=yes,ANTIVIRALS FOR SYSTEMIC USE
+J06,/?code=J06&showdescription=yes,IMMUNE SERA AND IMMUNOGLOBULINS
+J07,/?code=J07&showdescription=yes,VACCINES
+L01,/?code=L01&showdescription=yes,ANTINEOPLASTIC AGENTS
+L02,/?code=L02&showdescription=yes,ENDOCRINE THERAPY
+L03,/?code=L03&showdescription=yes,IMMUNOSTIMULANTS
+L04,/?code=L04&showdescription=yes,IMMUNOSUPPRESSANTS
+M01,/?code=M01&showdescription=yes,ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS
+M02,/?code=M02&showdescription=yes,TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN
+M03,/?code=M03&showdescription=yes,MUSCLE RELAXANTS
+M04,/?code=M04&showdescription=yes,ANTIGOUT PREPARATIONS
+M05,/?code=M05&showdescription=yes,DRUGS FOR TREATMENT OF BONE DISEASES
+M09,/?code=M09&showdescription=yes,OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+N01,/?code=N01&showdescription=yes,ANESTHETICS
+N02,/?code=N02&showdescription=yes,ANALGESICS
+N03,/?code=N03&showdescription=yes,ANTIEPILEPTICS
+N04,/?code=N04&showdescription=yes,ANTI-PARKINSON DRUGS
+N05,/?code=N05&showdescription=yes,PSYCHOLEPTICS
+N06,/?code=N06&showdescription=yes,PSYCHOANALEPTICS
+N07,/?code=N07&showdescription=yes,OTHER NERVOUS SYSTEM DRUGS
+P01,/?code=P01&showdescription=yes,ANTIPROTOZOALS
+P02,/?code=P02&showdescription=yes,ANTHELMINTICS
+P03,/?code=P03&showdescription=yes,"ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS"
+R01,/?code=R01&showdescription=yes,NASAL PREPARATIONS
+R02,/?code=R02&showdescription=yes,THROAT PREPARATIONS
+R03,/?code=R03&showdescription=yes,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES
+R05,/?code=R05&showdescription=yes,COUGH AND COLD PREPARATIONS
+R06,/?code=R06&showdescription=yes,ANTIHISTAMINES FOR SYSTEMIC USE
+R07,/?code=R07&showdescription=yes,OTHER RESPIRATORY SYSTEM PRODUCTS
+S01,/?code=S01&showdescription=yes,OPHTHALMOLOGICALS
+S02,/?code=S02&showdescription=yes,OTOLOGICALS
+S03,/?code=S03&showdescription=yes,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS
+V01,/?code=V01&showdescription=yes,ALLERGENS
+V03,/?code=V03&showdescription=yes,ALL OTHER THERAPEUTIC PRODUCTS
+V04,/?code=V04&showdescription=yes,DIAGNOSTIC AGENTS
+V06,/?code=V06&showdescription=yes,GENERAL NUTRIENTS
+V07,/?code=V07&showdescription=yes,ALL OTHER NON-THERAPEUTIC PRODUCTS
+V08,/?code=V08&showdescription=yes,CONTRAST MEDIA
+V09,/?code=V09&showdescription=yes,DIAGNOSTIC RADIOPHARMACEUTICALS
+V10,/?code=V10&showdescription=yes,THERAPEUTIC RADIOPHARMACEUTICALS
+V20,/?code=V20&showdescription=yes,SURGICAL DRESSINGS

@@ -1,0 +1,910 @@
+code_name,href,context
+A01AA,/?code=A01AA&showdescription=yes,Caries prophylactic agents
+A01AB,/?code=A01AB&showdescription=yes,Antiinfectives and antiseptics for local oral treatment
+A01AC,/?code=A01AC&showdescription=yes,Corticosteroids for local oral treatment
+A01AD,/?code=A01AD&showdescription=yes,Other agents for local oral treatment
+A02AA,/?code=A02AA&showdescription=yes,Magnesium compounds
+A02AB,/?code=A02AB&showdescription=yes,Aluminium compounds
+A02AC,/?code=A02AC&showdescription=yes,Calcium compounds
+A02AD,/?code=A02AD&showdescription=yes,"Combinations and complexes of aluminium, calcium and magnesium compounds"
+A02AF,/?code=A02AF&showdescription=yes,Antacids with antiflatulents
+A02AG,/?code=A02AG&showdescription=yes,Antacids with antispasmodics
+A02AH,/?code=A02AH&showdescription=yes,Antacids with sodium bicarbonate
+A02AX,/?code=A02AX&showdescription=yes,"Antacids, other combinations"
+A02BA,/?code=A02BA&showdescription=yes,H2-receptor antagonists
+A02BB,/?code=A02BB&showdescription=yes,Prostaglandins
+A02BC,/?code=A02BC&showdescription=yes,Proton pump inhibitors
+A02BD,/?code=A02BD&showdescription=yes,Combinations for eradication of Helicobacter pylori
+A02BX,/?code=A02BX&showdescription=yes,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+A03AA,/?code=A03AA&showdescription=yes,"Synthetic anticholinergics, esters with tertiary amino group"
+A03AB,/?code=A03AB&showdescription=yes,"Synthetic anticholinergics, quaternary ammonium compounds"
+A03AC,/?code=A03AC&showdescription=yes,"Synthetic antispasmodics, amides with tertiary amines"
+A03AD,/?code=A03AD&showdescription=yes,Papaverine and derivatives
+A03AE,/?code=A03AE&showdescription=yes,Serotonin receptor antagonists
+A03AX,/?code=A03AX&showdescription=yes,Other drugs for functional gastrointestinal disorders
+A03BA,/?code=A03BA&showdescription=yes,"Belladonna alkaloids, tertiary amines"
+A03BB,/?code=A03BB&showdescription=yes,"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds"
+A03CA,/?code=A03CA&showdescription=yes,Synthetic anticholinergic agents in combination with psycholeptics
+A03CB,/?code=A03CB&showdescription=yes,Belladonna and derivatives in combination with psycholeptics
+A03CC,/?code=A03CC&showdescription=yes,Other antispasmodics in combination with psycholeptics
+A03DA,/?code=A03DA&showdescription=yes,Synthetic anticholinergic agents in combination with analgesics
+A03DB,/?code=A03DB&showdescription=yes,Belladonna and derivatives in combination with analgesics
+A03DC,/?code=A03DC&showdescription=yes,Other antispasmodics in combination with analgesics
+A03EA,/?code=A03EA&showdescription=yes,"Antispasmodics, psycholeptics and analgesics in combination"
+A03ED,/?code=A03ED&showdescription=yes,Antispasmodics in combination with other drugs
+A03FA,/?code=A03FA&showdescription=yes,Propulsives
+A04AA,/?code=A04AA&showdescription=yes,Serotonin (5HT3) antagonists
+A04AD,/?code=A04AD&showdescription=yes,Other antiemetics
+A05AA,/?code=A05AA&showdescription=yes,Bile acids and derivatives
+A05AB,/?code=A05AB&showdescription=yes,Preparations for biliary tract therapy
+A05AX,/?code=A05AX&showdescription=yes,Other drugs for bile therapy
+A05BA,/?code=A05BA&showdescription=yes,Liver therapy
+A06AA,/?code=A06AA&showdescription=yes,"Softeners, emollients"
+A06AB,/?code=A06AB&showdescription=yes,Contact laxatives
+A06AC,/?code=A06AC&showdescription=yes,Bulk-forming laxatives
+A06AD,/?code=A06AD&showdescription=yes,Osmotically acting laxatives
+A06AG,/?code=A06AG&showdescription=yes,Enemas
+A06AH,/?code=A06AH&showdescription=yes,Peripheral opioid receptor antagonists
+A06AX,/?code=A06AX&showdescription=yes,Other drugs for constipation
+A07AA,/?code=A07AA&showdescription=yes,Antibiotics
+A07AB,/?code=A07AB&showdescription=yes,Sulfonamides
+A07AC,/?code=A07AC&showdescription=yes,Imidazole derivatives
+A07AX,/?code=A07AX&showdescription=yes,Other intestinal antiinfectives
+A07BA,/?code=A07BA&showdescription=yes,Charcoal preparations
+A07BB,/?code=A07BB&showdescription=yes,Bismuth preparations
+A07BC,/?code=A07BC&showdescription=yes,Other intestinal adsorbents
+A07CA,/?code=A07CA&showdescription=yes,Oral rehydration salt formulations
+A07DA,/?code=A07DA&showdescription=yes,Antipropulsives
+A07EA,/?code=A07EA&showdescription=yes,Corticosteroids acting locally
+A07EB,/?code=A07EB&showdescription=yes,"Antiallergic agents, excl. corticosteroids"
+A07EC,/?code=A07EC&showdescription=yes,Aminosalicylic acid and similar agents
+A07FA,/?code=A07FA&showdescription=yes,Antidiarrheal microorganisms
+A07XA,/?code=A07XA&showdescription=yes,Other antidiarrheals
+A08AA,/?code=A08AA&showdescription=yes,Centrally acting antiobesity products
+A08AB,/?code=A08AB&showdescription=yes,Peripherally acting antiobesity products
+A08AX,/?code=A08AX&showdescription=yes,Other antiobesity drugs
+A09AA,/?code=A09AA&showdescription=yes,Enzyme preparations
+A09AB,/?code=A09AB&showdescription=yes,Acid preparations
+A09AC,/?code=A09AC&showdescription=yes,"Enzyme and acid preparations, combinations"
+A10AB,/?code=A10AB&showdescription=yes,"Insulins and analogues for injection, fast-acting"
+A10AC,/?code=A10AC&showdescription=yes,"Insulins and analogues for injection, intermediate-acting"
+A10AD,/?code=A10AD&showdescription=yes,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting"
+A10AE,/?code=A10AE&showdescription=yes,"Insulins and analogues for injection, long-acting"
+A10AF,/?code=A10AF&showdescription=yes,Insulins and analogues for inhalation
+A10BA,/?code=A10BA&showdescription=yes,Biguanides
+A10BB,/?code=A10BB&showdescription=yes,Sulfonylureas
+A10BC,/?code=A10BC&showdescription=yes,Sulfonamides (heterocyclic)
+A10BD,/?code=A10BD&showdescription=yes,Combinations of oral blood glucose lowering drugs
+A10BF,/?code=A10BF&showdescription=yes,Alpha glucosidase inhibitors
+A10BG,/?code=A10BG&showdescription=yes,Thiazolidinediones
+A10BH,/?code=A10BH&showdescription=yes,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+A10BJ,/?code=A10BJ&showdescription=yes,Glucagon-like peptide-1 (GLP-1) analogues
+A10BK,/?code=A10BK&showdescription=yes,Sodium-glucose co-transporter 2 (SGLT2) inhibitors
+A10BX,/?code=A10BX&showdescription=yes,"Other blood glucose lowering drugs, excl. insulins"
+A10XA,/?code=A10XA&showdescription=yes,Aldose reductase inhibitors
+A11AA,/?code=A11AA&showdescription=yes,Multivitamins with minerals
+A11AB,/?code=A11AB&showdescription=yes,"Multivitamins, other combinations"
+A11BA,/?code=A11BA&showdescription=yes,"Multivitamins, plain"
+A11CA,/?code=A11CA&showdescription=yes,"Vitamin A, plain"
+A11CB,/?code=A11CB&showdescription=yes,Vitamin A and D in combination
+A11CC,/?code=A11CC&showdescription=yes,Vitamin D and analogues
+A11DA,/?code=A11DA&showdescription=yes,"Vitamin B1, plain"
+A11DB,/?code=A11DB&showdescription=yes,Vitamin B1 in combination with vitamin B6 and/or vitamin B12
+A11EA,/?code=A11EA&showdescription=yes,"Vitamin B-complex, plain"
+A11EB,/?code=A11EB&showdescription=yes,Vitamin B-complex with vitamin C
+A11EC,/?code=A11EC&showdescription=yes,Vitamin B-complex with minerals
+A11ED,/?code=A11ED&showdescription=yes,Vitamin B-complex with anabolic steroids
+A11EX,/?code=A11EX&showdescription=yes,"Vitamin B-complex, other combinations"
+A11GA,/?code=A11GA&showdescription=yes,"Ascorbic acid (vitamin C), plain"
+A11GB,/?code=A11GB&showdescription=yes,"Ascorbic acid (vitamin C), combinations"
+A11HA,/?code=A11HA&showdescription=yes,Other plain vitamin preparations
+A11JA,/?code=A11JA&showdescription=yes,Combinations of vitamins
+A11JB,/?code=A11JB&showdescription=yes,Vitamins with minerals
+A11JC,/?code=A11JC&showdescription=yes,"Vitamins, other combinations"
+A12AA,/?code=A12AA&showdescription=yes,Calcium
+A12AX,/?code=A12AX&showdescription=yes,"Calcium, combinations with vitamin D and/or other drugs"
+A12BA,/?code=A12BA&showdescription=yes,Potassium
+A12CA,/?code=A12CA&showdescription=yes,Sodium
+A12CB,/?code=A12CB&showdescription=yes,Zinc
+A12CC,/?code=A12CC&showdescription=yes,Magnesium
+A12CD,/?code=A12CD&showdescription=yes,Fluoride
+A12CE,/?code=A12CE&showdescription=yes,Selenium
+A12CX,/?code=A12CX&showdescription=yes,Other mineral products
+A14AA,/?code=A14AA&showdescription=yes,Androstan derivatives
+A14AB,/?code=A14AB&showdescription=yes,Estren derivatives
+A16AA,/?code=A16AA&showdescription=yes,Amino acids and derivatives
+A16AB,/?code=A16AB&showdescription=yes,Enzymes
+A16AX,/?code=A16AX&showdescription=yes,Various alimentary tract and metabolism products
+B01AA,/?code=B01AA&showdescription=yes,Vitamin K antagonists
+B01AB,/?code=B01AB&showdescription=yes,Heparin group
+B01AC,/?code=B01AC&showdescription=yes,Platelet aggregation inhibitors excl. heparin
+B01AD,/?code=B01AD&showdescription=yes,Enzymes
+B01AE,/?code=B01AE&showdescription=yes,Direct thrombin inhibitors
+B01AF,/?code=B01AF&showdescription=yes,Direct factor Xa inhibitors
+B01AX,/?code=B01AX&showdescription=yes,Other antithrombotic agents
+B02AA,/?code=B02AA&showdescription=yes,Amino acids
+B02AB,/?code=B02AB&showdescription=yes,Proteinase inhibitors
+B02BA,/?code=B02BA&showdescription=yes,Vitamin K
+B02BB,/?code=B02BB&showdescription=yes,Fibrinogen
+B02BC,/?code=B02BC&showdescription=yes,Local hemostatics
+B02BD,/?code=B02BD&showdescription=yes,Blood coagulation factors
+B02BX,/?code=B02BX&showdescription=yes,Other systemic hemostatics
+B03AA,/?code=B03AA&showdescription=yes,"Iron bivalent, oral preparations"
+B03AB,/?code=B03AB&showdescription=yes,"Iron trivalent, oral preparations"
+B03AC,/?code=B03AC&showdescription=yes,"Iron, parenteral preparations"
+B03AD,/?code=B03AD&showdescription=yes,Iron in combination with folic acid
+B03AE,/?code=B03AE&showdescription=yes,Iron in other combinations
+B03BA,/?code=B03BA&showdescription=yes,Vitamin B12 (cyanocobalamin and analogues)
+B03BB,/?code=B03BB&showdescription=yes,Folic acid and derivatives
+B03XA,/?code=B03XA&showdescription=yes,Other antianemic preparations
+B05AA,/?code=B05AA&showdescription=yes,Blood substitutes and plasma protein fractions
+B05AX,/?code=B05AX&showdescription=yes,Other blood products
+B05BA,/?code=B05BA&showdescription=yes,Solutions for parenteral nutrition
+B05BB,/?code=B05BB&showdescription=yes,Solutions affecting the electrolyte balance
+B05BC,/?code=B05BC&showdescription=yes,Solutions producing osmotic diuresis
+B05CA,/?code=B05CA&showdescription=yes,Antiinfectives
+B05CB,/?code=B05CB&showdescription=yes,Salt solutions
+B05CX,/?code=B05CX&showdescription=yes,Other irrigating solutions
+B05DA,/?code=B05DA&showdescription=yes,Isotonic solutions
+B05DB,/?code=B05DB&showdescription=yes,Hypertonic solutions
+B05XA,/?code=B05XA&showdescription=yes,Electrolyte solutions
+B05XB,/?code=B05XB&showdescription=yes,Amino acids
+B05XC,/?code=B05XC&showdescription=yes,Vitamins
+B05XX,/?code=B05XX&showdescription=yes,Other i.v. solution additives
+B05ZA,/?code=B05ZA&showdescription=yes,"Hemodialytics, concentrates"
+B05ZB,/?code=B05ZB&showdescription=yes,Hemofiltrates
+B06AA,/?code=B06AA&showdescription=yes,Enzymes
+B06AB,/?code=B06AB&showdescription=yes,Heme products
+B06AC,/?code=B06AC&showdescription=yes,Drugs used in hereditary angioedema
+B06AX,/?code=B06AX&showdescription=yes,Other hematological agents
+C01AA,/?code=C01AA&showdescription=yes,Digitalis glycosides
+C01AB,/?code=C01AB&showdescription=yes,Scilla glycosides
+C01AC,/?code=C01AC&showdescription=yes,Strophanthus glycosides
+C01AX,/?code=C01AX&showdescription=yes,Other cardiac glycosides
+C01BA,/?code=C01BA&showdescription=yes,"Antiarrhythmics, class Ia"
+C01BB,/?code=C01BB&showdescription=yes,"Antiarrhythmics, class Ib"
+C01BC,/?code=C01BC&showdescription=yes,"Antiarrhythmics, class Ic"
+C01BD,/?code=C01BD&showdescription=yes,"Antiarrhythmics, class III"
+C01BG,/?code=C01BG&showdescription=yes,"Other antiarrhythmics, class I and III"
+C01CA,/?code=C01CA&showdescription=yes,Adrenergic and dopaminergic agents
+C01CE,/?code=C01CE&showdescription=yes,Phosphodiesterase inhibitors
+C01CX,/?code=C01CX&showdescription=yes,Other cardiac stimulants
+C01DA,/?code=C01DA&showdescription=yes,Organic nitrates
+C01DB,/?code=C01DB&showdescription=yes,Quinolone vasodilators
+C01DX,/?code=C01DX&showdescription=yes,Other vasodilators used in cardiac diseases
+C01EA,/?code=C01EA&showdescription=yes,Prostaglandins
+C01EB,/?code=C01EB&showdescription=yes,Other cardiac preparations
+C01EX,/?code=C01EX&showdescription=yes,Other cardiac combination products
+C02AA,/?code=C02AA&showdescription=yes,Rauwolfia alkaloids
+C02AB,/?code=C02AB&showdescription=yes,Methyldopa
+C02AC,/?code=C02AC&showdescription=yes,Imidazoline receptor agonists
+C02BA,/?code=C02BA&showdescription=yes,Sulfonium derivatives
+C02BB,/?code=C02BB&showdescription=yes,Secondary and tertiary amines
+C02BC,/?code=C02BC&showdescription=yes,Bisquaternary ammonium compounds
+C02CA,/?code=C02CA&showdescription=yes,Alpha-adrenoreceptor antagonists
+C02CC,/?code=C02CC&showdescription=yes,Guanidine derivatives
+C02DA,/?code=C02DA&showdescription=yes,Thiazide derivatives
+C02DB,/?code=C02DB&showdescription=yes,Hydrazinophthalazine derivatives
+C02DC,/?code=C02DC&showdescription=yes,Pyrimidine derivatives
+C02DD,/?code=C02DD&showdescription=yes,Nitroferricyanide derivatives
+C02DG,/?code=C02DG&showdescription=yes,Guanidine derivatives
+C02KA,/?code=C02KA&showdescription=yes,"Alkaloids, excl. rauwolfia"
+C02KB,/?code=C02KB&showdescription=yes,Tyrosine hydroxylase inhibitors
+C02KC,/?code=C02KC&showdescription=yes,MAO inhibitors
+C02KD,/?code=C02KD&showdescription=yes,Serotonin antagonists
+C02KX,/?code=C02KX&showdescription=yes,Antihypertensives for pulmonary arterial hypertension
+C02LA,/?code=C02LA&showdescription=yes,Rauwolfia alkaloids and diuretics in combination
+C02LB,/?code=C02LB&showdescription=yes,Methyldopa and diuretics in combination
+C02LC,/?code=C02LC&showdescription=yes,Imidazoline receptor agonists in combination with diuretics
+C02LE,/?code=C02LE&showdescription=yes,Alpha-adrenoreceptor antagonists and diuretics
+C02LF,/?code=C02LF&showdescription=yes,Guanidine derivatives and diuretics
+C02LG,/?code=C02LG&showdescription=yes,Hydrazinophthalazine derivatives and diuretics
+C02LK,/?code=C02LK&showdescription=yes,"Alkaloids, excl. rauwolfia, in combination with diuretics"
+C02LL,/?code=C02LL&showdescription=yes,MAO inhibitors and diuretics
+C02LN,/?code=C02LN&showdescription=yes,Serotonin antagonists and diuretics
+C02LX,/?code=C02LX&showdescription=yes,Other antihypertensives and diuretics
+C03AA,/?code=C03AA&showdescription=yes,"Thiazides, plain"
+C03AB,/?code=C03AB&showdescription=yes,Thiazides and potassium in combination
+C03AH,/?code=C03AH&showdescription=yes,"Thiazides, combinations with psycholeptics and/or analgesics"
+C03AX,/?code=C03AX&showdescription=yes,"Thiazides, combinations with other drugs"
+C03BA,/?code=C03BA&showdescription=yes,"Sulfonamides, plain"
+C03BB,/?code=C03BB&showdescription=yes,Sulfonamides and potassium in combination
+C03BC,/?code=C03BC&showdescription=yes,Mercurial diuretics
+C03BD,/?code=C03BD&showdescription=yes,Xanthine derivatives
+C03BK,/?code=C03BK&showdescription=yes,"Sulfonamides, combinations with other drugs"
+C03BX,/?code=C03BX&showdescription=yes,Other low-ceiling diuretics
+C03CA,/?code=C03CA&showdescription=yes,"Sulfonamides, plain"
+C03CB,/?code=C03CB&showdescription=yes,Sulfonamides and potassium in combination
+C03CC,/?code=C03CC&showdescription=yes,Aryloxyacetic acid derivatives
+C03CD,/?code=C03CD&showdescription=yes,Pyrazolone derivatives
+C03CX,/?code=C03CX&showdescription=yes,Other high-ceiling diuretics
+C03DA,/?code=C03DA&showdescription=yes,Aldosterone antagonists
+C03DB,/?code=C03DB&showdescription=yes,Other potassium-sparing agents
+C03EA,/?code=C03EA&showdescription=yes,Low-ceiling diuretics and potassium-sparing agents
+C03EB,/?code=C03EB&showdescription=yes,High-ceiling diuretics and potassium-sparing agents
+C03XA,/?code=C03XA&showdescription=yes,Vasopressin antagonists
+C04AA,/?code=C04AA&showdescription=yes,2-amino-1-phenylethanol derivatives
+C04AB,/?code=C04AB&showdescription=yes,Imidazoline derivatives
+C04AC,/?code=C04AC&showdescription=yes,Nicotinic acid and derivatives
+C04AD,/?code=C04AD&showdescription=yes,Purine derivatives
+C04AE,/?code=C04AE&showdescription=yes,Ergot alkaloids
+C04AF,/?code=C04AF&showdescription=yes,Enzymes
+C04AX,/?code=C04AX&showdescription=yes,Other peripheral vasodilators
+C05AA,/?code=C05AA&showdescription=yes,Corticosteroids
+C05AB,/?code=C05AB&showdescription=yes,Antibiotics
+C05AD,/?code=C05AD&showdescription=yes,Local anesthetics
+C05AE,/?code=C05AE&showdescription=yes,Muscle relaxants
+C05AX,/?code=C05AX&showdescription=yes,Other agents for treatment of hemorrhoids and anal fissures for topical use
+C05BA,/?code=C05BA&showdescription=yes,Heparins or heparinoids for topical use
+C05BB,/?code=C05BB&showdescription=yes,Sclerosing agents for local injection
+C05BX,/?code=C05BX&showdescription=yes,Other sclerosing agents
+C05CA,/?code=C05CA&showdescription=yes,Bioflavonoids
+C05CX,/?code=C05CX&showdescription=yes,Other capillary stabilizing agents
+C07AA,/?code=C07AA&showdescription=yes,"Beta blocking agents, non-selective"
+C07AB,/?code=C07AB&showdescription=yes,"Beta blocking agents, selective"
+C07AG,/?code=C07AG&showdescription=yes,Alpha and beta blocking agents
+C07BA,/?code=C07BA&showdescription=yes,"Beta blocking agents, non-selective, and thiazides"
+C07BB,/?code=C07BB&showdescription=yes,"Beta blocking agents, selective, and thiazides"
+C07BG,/?code=C07BG&showdescription=yes,Alpha and beta blocking agents and thiazides
+C07CA,/?code=C07CA&showdescription=yes,"Beta blocking agents, non-selective, and other diuretics"
+C07CB,/?code=C07CB&showdescription=yes,"Beta blocking agents, selective, and other diuretics"
+C07CG,/?code=C07CG&showdescription=yes,Alpha and beta blocking agents and other diuretics
+C07DA,/?code=C07DA&showdescription=yes,"Beta blocking agents, non-selective, thiazides and other diuretics"
+C07DB,/?code=C07DB&showdescription=yes,"Beta blocking agents, selective, thiazides and other diuretics"
+C07EA,/?code=C07EA&showdescription=yes,"Beta blocking agents, non-selective, and vasodilators"
+C07EB,/?code=C07EB&showdescription=yes,"Beta blocking agents, selective, and vasodilators"
+C07FB,/?code=C07FB&showdescription=yes,Beta blocking agents and calcium channel blockers
+C07FX,/?code=C07FX&showdescription=yes,"Beta blocking agents, other combinations"
+C08CA,/?code=C08CA&showdescription=yes,Dihydropyridine derivatives
+C08CX,/?code=C08CX&showdescription=yes,Other selective calcium channel blockers with mainly vascular effects
+C08DA,/?code=C08DA&showdescription=yes,Phenylalkylamine derivatives
+C08DB,/?code=C08DB&showdescription=yes,Benzothiazepine derivatives
+C08EA,/?code=C08EA&showdescription=yes,Phenylalkylamine derivatives
+C08EX,/?code=C08EX&showdescription=yes,Other non-selective calcium channel blockers
+C08GA,/?code=C08GA&showdescription=yes,Calcium channel blockers and diuretics
+C09AA,/?code=C09AA&showdescription=yes,"ACE inhibitors, plain"
+C09BA,/?code=C09BA&showdescription=yes,ACE inhibitors and diuretics
+C09BB,/?code=C09BB&showdescription=yes,ACE inhibitors and calcium channel blockers
+C09BX,/?code=C09BX&showdescription=yes,"ACE inhibitors, other combinations"
+C09CA,/?code=C09CA&showdescription=yes,"Angiotensin II receptor blockers (ARBs), plain"
+C09DA,/?code=C09DA&showdescription=yes,Angiotensin II receptor blockers (ARBs) and diuretics
+C09DB,/?code=C09DB&showdescription=yes,Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+C09DX,/?code=C09DX&showdescription=yes,"Angiotensin II receptor blockers (ARBs), other combinations"
+C09XA,/?code=C09XA&showdescription=yes,Renin-inhibitors
+C10AA,/?code=C10AA&showdescription=yes,HMG CoA reductase inhibitors
+C10AB,/?code=C10AB&showdescription=yes,Fibrates
+C10AC,/?code=C10AC&showdescription=yes,Bile acid sequestrants
+C10AD,/?code=C10AD&showdescription=yes,Nicotinic acid and derivatives
+C10AX,/?code=C10AX&showdescription=yes,Other lipid modifying agents
+C10BA,/?code=C10BA&showdescription=yes,Combinations of various lipid modifying agents
+C10BX,/?code=C10BX&showdescription=yes,Lipid modifying agents in combination with other drugs
+D01AA,/?code=D01AA&showdescription=yes,Antibiotics
+D01AC,/?code=D01AC&showdescription=yes,Imidazole and triazole derivatives
+D01AE,/?code=D01AE&showdescription=yes,Other antifungals for topical use
+D01BA,/?code=D01BA&showdescription=yes,Antifungals for systemic use
+D02AA,/?code=D02AA&showdescription=yes,Silicone products
+D02AB,/?code=D02AB&showdescription=yes,Zinc products
+D02AC,/?code=D02AC&showdescription=yes,Soft paraffin and fat products
+D02AD,/?code=D02AD&showdescription=yes,Liquid plasters
+D02AE,/?code=D02AE&showdescription=yes,Carbamide products
+D02AF,/?code=D02AF&showdescription=yes,Salicylic acid preparations
+D02AX,/?code=D02AX&showdescription=yes,Other emollients and protectives
+D02BA,/?code=D02BA&showdescription=yes,Protectives against UV-radiation for topical use
+D02BB,/?code=D02BB&showdescription=yes,Protectives against UV-radiation for systemic use
+D03AA,/?code=D03AA&showdescription=yes,Cod-liver oil ointments
+D03AX,/?code=D03AX&showdescription=yes,Other cicatrizants
+D03BA,/?code=D03BA&showdescription=yes,Proteolytic enzymes
+D04AA,/?code=D04AA&showdescription=yes,Antihistamines for topical use
+D04AB,/?code=D04AB&showdescription=yes,Anesthetics for topical use
+D04AX,/?code=D04AX&showdescription=yes,Other antipruritics
+D05AA,/?code=D05AA&showdescription=yes,Tars
+D05AC,/?code=D05AC&showdescription=yes,Antracen derivatives
+D05AD,/?code=D05AD&showdescription=yes,Psoralens for topical use
+D05AX,/?code=D05AX&showdescription=yes,Other antipsoriatics for topical use
+D05BA,/?code=D05BA&showdescription=yes,Psoralens for systemic use
+D05BB,/?code=D05BB&showdescription=yes,Retinoids for treatment of psoriasis
+D05BX,/?code=D05BX&showdescription=yes,Other antipsoriatics for systemic use
+D06AA,/?code=D06AA&showdescription=yes,Tetracycline and derivatives
+D06AX,/?code=D06AX&showdescription=yes,Other antibiotics for topical use
+D06BA,/?code=D06BA&showdescription=yes,Sulfonamides
+D06BB,/?code=D06BB&showdescription=yes,Antivirals
+D06BX,/?code=D06BX&showdescription=yes,Other chemotherapeutics
+D07AA,/?code=D07AA&showdescription=yes,"Corticosteroids, weak (group I)"
+D07AB,/?code=D07AB&showdescription=yes,"Corticosteroids, moderately potent (group II)"
+D07AC,/?code=D07AC&showdescription=yes,"Corticosteroids, potent (group III)"
+D07AD,/?code=D07AD&showdescription=yes,"Corticosteroids, very potent (group IV)"
+D07BA,/?code=D07BA&showdescription=yes,"Corticosteroids, weak, combinations with antiseptics"
+D07BB,/?code=D07BB&showdescription=yes,"Corticosteroids, moderately potent, combinations with antiseptics"
+D07BC,/?code=D07BC&showdescription=yes,"Corticosteroids, potent, combinations with antiseptics"
+D07BD,/?code=D07BD&showdescription=yes,"Corticosteroids, very potent, combinations with antiseptics"
+D07CA,/?code=D07CA&showdescription=yes,"Corticosteroids, weak, combinations with antibiotics"
+D07CB,/?code=D07CB&showdescription=yes,"Corticosteroids, moderately potent, combinations with antibiotics"
+D07CC,/?code=D07CC&showdescription=yes,"Corticosteroids, potent, combinations with antibiotics"
+D07CD,/?code=D07CD&showdescription=yes,"Corticosteroids, very potent, combinations with antibiotics"
+D07XA,/?code=D07XA&showdescription=yes,"Corticosteroids, weak, other combinations"
+D07XB,/?code=D07XB&showdescription=yes,"Corticosteroids, moderately potent, other combinations"
+D07XC,/?code=D07XC&showdescription=yes,"Corticosteroids, potent, other combinations"
+D07XD,/?code=D07XD&showdescription=yes,"Corticosteroids, very potent, other combinations"
+D08AA,/?code=D08AA&showdescription=yes,Acridine derivatives
+D08AB,/?code=D08AB&showdescription=yes,Aluminium agents
+D08AC,/?code=D08AC&showdescription=yes,Biguanides and amidines
+D08AD,/?code=D08AD&showdescription=yes,Boric acid products
+D08AE,/?code=D08AE&showdescription=yes,Phenol and derivatives
+D08AF,/?code=D08AF&showdescription=yes,Nitrofuran derivatives
+D08AG,/?code=D08AG&showdescription=yes,Iodine products
+D08AH,/?code=D08AH&showdescription=yes,Quinoline derivatives
+D08AJ,/?code=D08AJ&showdescription=yes,Quaternary ammonium compounds
+D08AK,/?code=D08AK&showdescription=yes,Mercurial products
+D08AL,/?code=D08AL&showdescription=yes,Silver compounds
+D08AX,/?code=D08AX&showdescription=yes,Other antiseptics and disinfectants
+D09AA,/?code=D09AA&showdescription=yes,Medicated dressings with antiinfectives
+D09AB,/?code=D09AB&showdescription=yes,Zinc bandages
+D09AX,/?code=D09AX&showdescription=yes,Soft paraffin dressings
+D10AA,/?code=D10AA&showdescription=yes,"Corticosteroids, combinations for treatment of acne"
+D10AB,/?code=D10AB&showdescription=yes,Preparations containing sulfur
+D10AD,/?code=D10AD&showdescription=yes,Retinoids for topical use in acne
+D10AE,/?code=D10AE&showdescription=yes,Peroxides
+D10AF,/?code=D10AF&showdescription=yes,Antiinfectives for treatment of acne
+D10AX,/?code=D10AX&showdescription=yes,Other anti-acne preparations for topical use
+D10BA,/?code=D10BA&showdescription=yes,Retinoids for treatment of acne
+D10BX,/?code=D10BX&showdescription=yes,Other anti-acne preparations for systemic use
+D11AA,/?code=D11AA&showdescription=yes,Antihidrotics
+D11AC,/?code=D11AC&showdescription=yes,Medicated shampoos
+D11AE,/?code=D11AE&showdescription=yes,Androgens for topical use
+D11AF,/?code=D11AF&showdescription=yes,Wart and anti-corn preparations
+D11AH,/?code=D11AH&showdescription=yes,"Agents for dermatitis, excluding corticosteroids"
+D11AX,/?code=D11AX&showdescription=yes,Other dermatologicals
+G01AA,/?code=G01AA&showdescription=yes,Antibiotics
+G01AB,/?code=G01AB&showdescription=yes,Arsenic compounds
+G01AC,/?code=G01AC&showdescription=yes,Quinoline derivatives
+G01AD,/?code=G01AD&showdescription=yes,Organic acids
+G01AE,/?code=G01AE&showdescription=yes,Sulfonamides
+G01AF,/?code=G01AF&showdescription=yes,Imidazole derivatives
+G01AG,/?code=G01AG&showdescription=yes,Triazole derivatives
+G01AX,/?code=G01AX&showdescription=yes,Other antiinfectives and antiseptics
+G01BA,/?code=G01BA&showdescription=yes,Antibiotics and corticosteroids
+G01BC,/?code=G01BC&showdescription=yes,Quinoline derivatives and corticosteroids
+G01BD,/?code=G01BD&showdescription=yes,Antiseptics and corticosteroids
+G01BE,/?code=G01BE&showdescription=yes,Sulfonamides and corticosteroids
+G01BF,/?code=G01BF&showdescription=yes,Imidazole derivatives and corticosteroids
+G02AB,/?code=G02AB&showdescription=yes,Ergot alkaloids
+G02AC,/?code=G02AC&showdescription=yes,"Ergot alkaloids and oxytocin incl. analogues, in combination"
+G02AD,/?code=G02AD&showdescription=yes,Prostaglandins
+G02AX,/?code=G02AX&showdescription=yes,Other uterotonics
+G02BA,/?code=G02BA&showdescription=yes,Intrauterine contraceptives
+G02BB,/?code=G02BB&showdescription=yes,Intravaginal contraceptives
+G02CA,/?code=G02CA&showdescription=yes,"Sympathomimetics, labour repressants"
+G02CB,/?code=G02CB&showdescription=yes,Prolactine inhibitors
+G02CC,/?code=G02CC&showdescription=yes,Antiinflammatory products for vaginal administration
+G02CX,/?code=G02CX&showdescription=yes,Other gynecologicals
+G03AA,/?code=G03AA&showdescription=yes,"Progestogens and estrogens, fixed combinations"
+G03AB,/?code=G03AB&showdescription=yes,"Progestogens and estrogens, sequential preparations"
+G03AC,/?code=G03AC&showdescription=yes,Progestogens
+G03AD,/?code=G03AD&showdescription=yes,Emergency contraceptives
+G03BA,/?code=G03BA&showdescription=yes,3-oxoandrosten (4) derivatives
+G03BB,/?code=G03BB&showdescription=yes,5-androstanon (3) derivatives
+G03CA,/?code=G03CA&showdescription=yes,"Natural and semisynthetic estrogens, plain"
+G03CB,/?code=G03CB&showdescription=yes,"Synthetic estrogens, plain"
+G03CC,/?code=G03CC&showdescription=yes,"Estrogens, combinations with other drugs"
+G03CX,/?code=G03CX&showdescription=yes,Other estrogens
+G03DA,/?code=G03DA&showdescription=yes,Pregnen (4) derivatives
+G03DB,/?code=G03DB&showdescription=yes,Pregnadien derivatives
+G03DC,/?code=G03DC&showdescription=yes,Estren derivatives
+G03EA,/?code=G03EA&showdescription=yes,Androgens and estrogens
+G03EB,/?code=G03EB&showdescription=yes,"Androgen, progestogen and estrogen in combination"
+G03EK,/?code=G03EK&showdescription=yes,Androgens and female sex hormones in combination with other drugs
+G03FA,/?code=G03FA&showdescription=yes,"Progestogens and estrogens, fixed combinations"
+G03FB,/?code=G03FB&showdescription=yes,"Progestogens and estrogens, sequential preparations"
+G03GA,/?code=G03GA&showdescription=yes,Gonadotropins
+G03GB,/?code=G03GB&showdescription=yes,"Ovulation stimulants, synthetic"
+G03HA,/?code=G03HA&showdescription=yes,"Antiandrogens, plain"
+G03HB,/?code=G03HB&showdescription=yes,Antiandrogens and estrogens
+G03XA,/?code=G03XA&showdescription=yes,Antigonadotropins and similar agents
+G03XB,/?code=G03XB&showdescription=yes,Progesterone receptor modulators
+G03XC,/?code=G03XC&showdescription=yes,Selective estrogen receptor modulators
+G03XX,/?code=G03XX&showdescription=yes,Other sex hormones and modulators of the genital system
+G04BA,/?code=G04BA&showdescription=yes,Acidifiers
+G04BC,/?code=G04BC&showdescription=yes,Urinary concrement solvents
+G04BD,/?code=G04BD&showdescription=yes,Drugs for urinary frequency and incontinence
+G04BE,/?code=G04BE&showdescription=yes,Drugs used in erectile dysfunction
+G04BX,/?code=G04BX&showdescription=yes,Other urologicals
+G04CA,/?code=G04CA&showdescription=yes,Alpha-adrenoreceptor antagonists
+G04CB,/?code=G04CB&showdescription=yes,Testosterone-5-alpha reductase inhibitors
+G04CX,/?code=G04CX&showdescription=yes,Other drugs used in benign prostatic hypertrophy
+H01AA,/?code=H01AA&showdescription=yes,ACTH
+H01AB,/?code=H01AB&showdescription=yes,Thyrotropin
+H01AC,/?code=H01AC&showdescription=yes,Somatropin and somatropin agonists
+H01AX,/?code=H01AX&showdescription=yes,Other anterior pituitary lobe hormones and analogues
+H01BA,/?code=H01BA&showdescription=yes,Vasopressin and analogues
+H01BB,/?code=H01BB&showdescription=yes,Oxytocin and analogues
+H01CA,/?code=H01CA&showdescription=yes,Gonadotropin-releasing hormones
+H01CB,/?code=H01CB&showdescription=yes,Somatostatin and analogues
+H01CC,/?code=H01CC&showdescription=yes,Anti-gonadotropin-releasing hormones
+H02AA,/?code=H02AA&showdescription=yes,Mineralocorticoids
+H02AB,/?code=H02AB&showdescription=yes,Glucocorticoids
+H02BX,/?code=H02BX&showdescription=yes,"Corticosteroids for systemic use, combinations"
+H02CA,/?code=H02CA&showdescription=yes,Anticorticosteroids
+H03AA,/?code=H03AA&showdescription=yes,Thyroid hormones
+H03BA,/?code=H03BA&showdescription=yes,Thiouracils
+H03BB,/?code=H03BB&showdescription=yes,Sulfur-containing imidazole derivatives
+H03BC,/?code=H03BC&showdescription=yes,Perchlorates
+H03BX,/?code=H03BX&showdescription=yes,Other antithyroid preparations
+H03CA,/?code=H03CA&showdescription=yes,Iodine therapy
+H04AA,/?code=H04AA&showdescription=yes,Glycogenolytic hormones
+H05AA,/?code=H05AA&showdescription=yes,Parathyroid hormones and analogues
+H05BA,/?code=H05BA&showdescription=yes,Calcitonin preparations
+H05BX,/?code=H05BX&showdescription=yes,Other anti-parathyroid agents
+J01AA,/?code=J01AA&showdescription=yes,Tetracyclines
+J01BA,/?code=J01BA&showdescription=yes,Amphenicols
+J01CA,/?code=J01CA&showdescription=yes,Penicillins with extended spectrum
+J01CE,/?code=J01CE&showdescription=yes,Beta-lactamase sensitive penicillins
+J01CF,/?code=J01CF&showdescription=yes,Beta-lactamase resistant penicillins
+J01CG,/?code=J01CG&showdescription=yes,Beta-lactamase inhibitors
+J01CR,/?code=J01CR&showdescription=yes,"Combinations of penicillins, incl. beta-lactamase inhibitors"
+J01DB,/?code=J01DB&showdescription=yes,First-generation cephalosporins
+J01DC,/?code=J01DC&showdescription=yes,Second-generation cephalosporins
+J01DD,/?code=J01DD&showdescription=yes,Third-generation cephalosporins
+J01DE,/?code=J01DE&showdescription=yes,Fourth-generation cephalosporins
+J01DF,/?code=J01DF&showdescription=yes,Monobactams
+J01DH,/?code=J01DH&showdescription=yes,Carbapenems
+J01DI,/?code=J01DI&showdescription=yes,Other cephalosporins and penems
+J01EA,/?code=J01EA&showdescription=yes,Trimethoprim and derivatives
+J01EB,/?code=J01EB&showdescription=yes,Short-acting sulfonamides
+J01EC,/?code=J01EC&showdescription=yes,Intermediate-acting sulfonamides
+J01ED,/?code=J01ED&showdescription=yes,Long-acting sulfonamides
+J01EE,/?code=J01EE&showdescription=yes,"Combinations of sulfonamides and trimethoprim, incl. derivatives"
+J01FA,/?code=J01FA&showdescription=yes,Macrolides
+J01FF,/?code=J01FF&showdescription=yes,Lincosamides
+J01FG,/?code=J01FG&showdescription=yes,Streptogramins
+J01GA,/?code=J01GA&showdescription=yes,Streptomycins
+J01GB,/?code=J01GB&showdescription=yes,Other aminoglycosides
+J01MA,/?code=J01MA&showdescription=yes,Fluoroquinolones
+J01MB,/?code=J01MB&showdescription=yes,Other quinolones
+J01RA,/?code=J01RA&showdescription=yes,Combinations of antibacterials
+J01XA,/?code=J01XA&showdescription=yes,Glycopeptide antibacterials
+J01XB,/?code=J01XB&showdescription=yes,Polymyxins
+J01XC,/?code=J01XC&showdescription=yes,Steroid antibacterials
+J01XD,/?code=J01XD&showdescription=yes,Imidazole derivatives
+J01XE,/?code=J01XE&showdescription=yes,Nitrofuran derivatives
+J01XX,/?code=J01XX&showdescription=yes,Other antibacterials
+J02AA,/?code=J02AA&showdescription=yes,Antibiotics
+J02AB,/?code=J02AB&showdescription=yes,Imidazole derivatives
+J02AC,/?code=J02AC&showdescription=yes,Triazole derivatives
+J02AX,/?code=J02AX&showdescription=yes,Other antimycotics for systemic use
+J04AA,/?code=J04AA&showdescription=yes,Aminosalicylic acid and derivatives
+J04AB,/?code=J04AB&showdescription=yes,Antibiotics
+J04AC,/?code=J04AC&showdescription=yes,Hydrazides
+J04AD,/?code=J04AD&showdescription=yes,Thiocarbamide derivatives
+J04AK,/?code=J04AK&showdescription=yes,Other drugs for treatment of tuberculosis
+J04AM,/?code=J04AM&showdescription=yes,Combinations of drugs for treatment of tuberculosis
+J04BA,/?code=J04BA&showdescription=yes,Drugs for treatment of lepra
+J05AA,/?code=J05AA&showdescription=yes,Thiosemicarbazones
+J05AB,/?code=J05AB&showdescription=yes,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+J05AC,/?code=J05AC&showdescription=yes,Cyclic amines
+J05AD,/?code=J05AD&showdescription=yes,Phosphonic acid derivatives
+J05AE,/?code=J05AE&showdescription=yes,Protease inhibitors
+J05AF,/?code=J05AF&showdescription=yes,Nucleoside and nucleotide reverse transcriptase inhibitors
+J05AG,/?code=J05AG&showdescription=yes,Non-nucleoside reverse transcriptase inhibitors
+J05AH,/?code=J05AH&showdescription=yes,Neuraminidase inhibitors
+J05AJ,/?code=J05AJ&showdescription=yes,Integrase inhibitors
+J05AP,/?code=J05AP&showdescription=yes,Antivirals for treatment of HCV infections
+J05AR,/?code=J05AR&showdescription=yes,"Antivirals for treatment of HIV infections, combinations"
+J05AX,/?code=J05AX&showdescription=yes,Other antivirals
+J06AA,/?code=J06AA&showdescription=yes,Immune sera
+J06BA,/?code=J06BA&showdescription=yes,"Immunoglobulins, normal human"
+J06BB,/?code=J06BB&showdescription=yes,Specific immunoglobulins
+J06BC,/?code=J06BC&showdescription=yes,Other immunoglobulins
+J07AC,/?code=J07AC&showdescription=yes,Anthrax vaccines
+J07AD,/?code=J07AD&showdescription=yes,Brucellosis vaccines
+J07AE,/?code=J07AE&showdescription=yes,Cholera vaccines
+J07AF,/?code=J07AF&showdescription=yes,Diphtheria vaccines
+J07AG,/?code=J07AG&showdescription=yes,Haemophilus influenzae B vaccines
+J07AH,/?code=J07AH&showdescription=yes,Meningococcal vaccines
+J07AJ,/?code=J07AJ&showdescription=yes,Pertussis vaccines
+J07AK,/?code=J07AK&showdescription=yes,Plague vaccines
+J07AL,/?code=J07AL&showdescription=yes,Pneumococcal vaccines
+J07AM,/?code=J07AM&showdescription=yes,Tetanus vaccines
+J07AN,/?code=J07AN&showdescription=yes,Tuberculosis vaccines
+J07AP,/?code=J07AP&showdescription=yes,Typhoid vaccines
+J07AR,/?code=J07AR&showdescription=yes,Typhus (exanthematicus) vaccines
+J07AX,/?code=J07AX&showdescription=yes,Other bacterial vaccines
+J07BA,/?code=J07BA&showdescription=yes,Encephalitis vaccines
+J07BB,/?code=J07BB&showdescription=yes,Influenza vaccines
+J07BC,/?code=J07BC&showdescription=yes,Hepatitis vaccines
+J07BD,/?code=J07BD&showdescription=yes,Measles vaccines
+J07BE,/?code=J07BE&showdescription=yes,Mumps vaccines
+J07BF,/?code=J07BF&showdescription=yes,Poliomyelitis vaccines
+J07BG,/?code=J07BG&showdescription=yes,Rabies vaccines
+J07BH,/?code=J07BH&showdescription=yes,Rota virus diarrhea vaccines
+J07BJ,/?code=J07BJ&showdescription=yes,Rubella vaccines
+J07BK,/?code=J07BK&showdescription=yes,Varicella zoster vaccines
+J07BL,/?code=J07BL&showdescription=yes,Yellow fever vaccines
+J07BM,/?code=J07BM&showdescription=yes,Papillomavirus vaccines
+J07BX,/?code=J07BX&showdescription=yes,Other viral vaccines
+J07CA,/?code=J07CA&showdescription=yes,"Bacterial and viral vaccines, combined"
+L01AA,/?code=L01AA&showdescription=yes,Nitrogen mustard analogues
+L01AB,/?code=L01AB&showdescription=yes,Alkyl sulfonates
+L01AC,/?code=L01AC&showdescription=yes,Ethylene imines
+L01AD,/?code=L01AD&showdescription=yes,Nitrosoureas
+L01AG,/?code=L01AG&showdescription=yes,Epoxides
+L01AX,/?code=L01AX&showdescription=yes,Other alkylating agents
+L01BA,/?code=L01BA&showdescription=yes,Folic acid analogues
+L01BB,/?code=L01BB&showdescription=yes,Purine analogues
+L01BC,/?code=L01BC&showdescription=yes,Pyrimidine analogues
+L01CA,/?code=L01CA&showdescription=yes,Vinca alkaloids and analogues
+L01CB,/?code=L01CB&showdescription=yes,Podophyllotoxin derivatives
+L01CC,/?code=L01CC&showdescription=yes,Colchicine derivatives
+L01CD,/?code=L01CD&showdescription=yes,Taxanes
+L01CE,/?code=L01CE&showdescription=yes,Topoisomerase 1 (TOP1) inhibitors
+L01CX,/?code=L01CX&showdescription=yes,Other plant alkaloids and natural products
+L01DA,/?code=L01DA&showdescription=yes,Actinomycines
+L01DB,/?code=L01DB&showdescription=yes,Anthracyclines and related substances
+L01DC,/?code=L01DC&showdescription=yes,Other cytotoxic antibiotics
+L01EA,/?code=L01EA&showdescription=yes,BCR-ABL tyrosine kinase inhibitors
+L01EB,/?code=L01EB&showdescription=yes,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+L01EC,/?code=L01EC&showdescription=yes,B-Raf serine-threonine kinase (BRAF) inhibitors
+L01ED,/?code=L01ED&showdescription=yes,Anaplastic lymphoma kinase (ALK) inhibitors
+L01EE,/?code=L01EE&showdescription=yes,Mitogen-activated protein kinase (MEK) inhibitors
+L01EF,/?code=L01EF&showdescription=yes,Cyclin-dependent kinase (CDK) inhibitors
+L01EG,/?code=L01EG&showdescription=yes,Mammalian target of rapamycin (mTOR) kinase inhibitors
+L01EH,/?code=L01EH&showdescription=yes,Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors
+L01EJ,/?code=L01EJ&showdescription=yes,Janus-associated kinase (JAK) inhibitors
+L01EK,/?code=L01EK&showdescription=yes,Vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors
+L01EL,/?code=L01EL&showdescription=yes,Bruton's tyrosine kinase (BTK) inhibitors
+L01EM,/?code=L01EM&showdescription=yes,Phosphatidylinositol-3-kinase (Pi3K) inhibitors
+L01EX,/?code=L01EX&showdescription=yes,Other protein kinase inhibitors
+L01XA,/?code=L01XA&showdescription=yes,Platinum compounds
+L01XB,/?code=L01XB&showdescription=yes,Methylhydrazines
+L01XC,/?code=L01XC&showdescription=yes,Monoclonal antibodies
+L01XD,/?code=L01XD&showdescription=yes,Sensitizers used in photodynamic/radiation therapy
+L01XF,/?code=L01XF&showdescription=yes,Retinoids for cancer treatment
+L01XG,/?code=L01XG&showdescription=yes,Proteasome inhibitors
+L01XH,/?code=L01XH&showdescription=yes,Histone deacetylase (HDAC) inhibitors
+L01XJ,/?code=L01XJ&showdescription=yes,Hedgehog pathway inhibitors
+L01XK,/?code=L01XK&showdescription=yes,Poly (ADP-ribose) polymerase (PARP) inhibitors
+L01XX,/?code=L01XX&showdescription=yes,Other antineoplastic agents
+L01XY,/?code=L01XY&showdescription=yes,Combinations of antineoplastic agents
+L02AA,/?code=L02AA&showdescription=yes,Estrogens
+L02AB,/?code=L02AB&showdescription=yes,Progestogens
+L02AE,/?code=L02AE&showdescription=yes,Gonadotropin releasing hormone analogues
+L02AX,/?code=L02AX&showdescription=yes,Other hormones
+L02BA,/?code=L02BA&showdescription=yes,Anti-estrogens
+L02BB,/?code=L02BB&showdescription=yes,Anti-androgens
+L02BG,/?code=L02BG&showdescription=yes,Aromatase inhibitors
+L02BX,/?code=L02BX&showdescription=yes,Other hormone antagonists and related agents
+L03AA,/?code=L03AA&showdescription=yes,Colony stimulating factors
+L03AB,/?code=L03AB&showdescription=yes,Interferons
+L03AC,/?code=L03AC&showdescription=yes,Interleukins
+L03AX,/?code=L03AX&showdescription=yes,Other immunostimulants
+L04AA,/?code=L04AA&showdescription=yes,Selective immunosuppressants
+L04AB,/?code=L04AB&showdescription=yes,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+L04AC,/?code=L04AC&showdescription=yes,Interleukin inhibitors
+L04AD,/?code=L04AD&showdescription=yes,Calcineurin inhibitors
+L04AX,/?code=L04AX&showdescription=yes,Other immunosuppressants
+M01AA,/?code=M01AA&showdescription=yes,Butylpyrazolidines
+M01AB,/?code=M01AB&showdescription=yes,Acetic acid derivatives and related substances
+M01AC,/?code=M01AC&showdescription=yes,Oxicams
+M01AE,/?code=M01AE&showdescription=yes,Propionic acid derivatives
+M01AG,/?code=M01AG&showdescription=yes,Fenamates
+M01AH,/?code=M01AH&showdescription=yes,Coxibs
+M01AX,/?code=M01AX&showdescription=yes,"Other antiinflammatory and antirheumatic agents, non-steroids"
+M01BA,/?code=M01BA&showdescription=yes,Antiinflammatory/antirheumatic agents in combination with corticosteroids
+M01BX,/?code=M01BX&showdescription=yes,Other antiinflammatory/antirheumatic agents in combination with other drugs
+M01CA,/?code=M01CA&showdescription=yes,Quinolines
+M01CB,/?code=M01CB&showdescription=yes,Gold preparations
+M01CC,/?code=M01CC&showdescription=yes,Penicillamine and similar agents
+M01CX,/?code=M01CX&showdescription=yes,Other specific antirheumatic agents
+M02AA,/?code=M02AA&showdescription=yes,"Antiinflammatory preparations, non-steroids for topical use"
+M02AB,/?code=M02AB&showdescription=yes,Capsaicin and similar agents
+M02AC,/?code=M02AC&showdescription=yes,Preparations with salicylic acid derivatives
+M02AX,/?code=M02AX&showdescription=yes,Other topical products for joint and muscular pain
+M03AA,/?code=M03AA&showdescription=yes,Curare alkaloids
+M03AB,/?code=M03AB&showdescription=yes,Choline derivatives
+M03AC,/?code=M03AC&showdescription=yes,Other quaternary ammonium compounds
+M03AX,/?code=M03AX&showdescription=yes,"Other muscle relaxants, peripherally acting agents"
+M03BA,/?code=M03BA&showdescription=yes,Carbamic acid esters
+M03BB,/?code=M03BB&showdescription=yes,"Oxazol, thiazine, and triazine derivatives"
+M03BC,/?code=M03BC&showdescription=yes,"Ethers, chemically close to antihistamines"
+M03BX,/?code=M03BX&showdescription=yes,Other centrally acting agents
+M03CA,/?code=M03CA&showdescription=yes,Dantrolene and derivatives
+M04AA,/?code=M04AA&showdescription=yes,Preparations inhibiting uric acid production
+M04AB,/?code=M04AB&showdescription=yes,Preparations increasing uric acid excretion
+M04AC,/?code=M04AC&showdescription=yes,Preparations with no effect on uric acid metabolism
+M04AX,/?code=M04AX&showdescription=yes,Other antigout preparations
+M05BA,/?code=M05BA&showdescription=yes,Bisphosphonates
+M05BB,/?code=M05BB&showdescription=yes,"Bisphosphonates, combinations"
+M05BC,/?code=M05BC&showdescription=yes,Bone morphogenetic proteins
+M05BX,/?code=M05BX&showdescription=yes,Other drugs affecting bone structure and mineralization
+M09AA,/?code=M09AA&showdescription=yes,Quinine and derivatives
+M09AB,/?code=M09AB&showdescription=yes,Enzymes
+M09AX,/?code=M09AX&showdescription=yes,Other drugs for disorders of the musculo-skeletal system
+N01AA,/?code=N01AA&showdescription=yes,Ethers
+N01AB,/?code=N01AB&showdescription=yes,Halogenated hydrocarbons
+N01AF,/?code=N01AF&showdescription=yes,"Barbiturates, plain"
+N01AG,/?code=N01AG&showdescription=yes,Barbiturates in combination with other drugs
+N01AH,/?code=N01AH&showdescription=yes,Opioid anesthetics
+N01AX,/?code=N01AX&showdescription=yes,Other general anesthetics
+N01BA,/?code=N01BA&showdescription=yes,Esters of aminobenzoic acid
+N01BB,/?code=N01BB&showdescription=yes,Amides
+N01BC,/?code=N01BC&showdescription=yes,Esters of benzoic acid
+N01BX,/?code=N01BX&showdescription=yes,Other local anesthetics
+N02AA,/?code=N02AA&showdescription=yes,Natural opium alkaloids
+N02AB,/?code=N02AB&showdescription=yes,Phenylpiperidine derivatives
+N02AC,/?code=N02AC&showdescription=yes,Diphenylpropylamine derivatives
+N02AD,/?code=N02AD&showdescription=yes,Benzomorphan derivatives
+N02AE,/?code=N02AE&showdescription=yes,Oripavine derivatives
+N02AF,/?code=N02AF&showdescription=yes,Morphinan derivatives
+N02AG,/?code=N02AG&showdescription=yes,Opioids in combination with antispasmodics
+N02AJ,/?code=N02AJ&showdescription=yes,Opioids in combination with non-opioid analgesics
+N02AX,/?code=N02AX&showdescription=yes,Other opioids
+N02BA,/?code=N02BA&showdescription=yes,Salicylic acid and derivatives
+N02BB,/?code=N02BB&showdescription=yes,Pyrazolones
+N02BE,/?code=N02BE&showdescription=yes,Anilides
+N02BG,/?code=N02BG&showdescription=yes,Other analgesics and antipyretics
+N02CA,/?code=N02CA&showdescription=yes,Ergot alkaloids
+N02CB,/?code=N02CB&showdescription=yes,Corticosteroid derivatives
+N02CC,/?code=N02CC&showdescription=yes,Selective serotonin (5HT1) agonists
+N02CD,/?code=N02CD&showdescription=yes,Calcitonin gene-related peptide (CGRP) antagonists
+N02CX,/?code=N02CX&showdescription=yes,Other antimigraine preparations
+N03AA,/?code=N03AA&showdescription=yes,Barbiturates and derivatives
+N03AB,/?code=N03AB&showdescription=yes,Hydantoin derivatives
+N03AC,/?code=N03AC&showdescription=yes,Oxazolidine derivatives
+N03AD,/?code=N03AD&showdescription=yes,Succinimide derivatives
+N03AE,/?code=N03AE&showdescription=yes,Benzodiazepine derivatives
+N03AF,/?code=N03AF&showdescription=yes,Carboxamide derivatives
+N03AG,/?code=N03AG&showdescription=yes,Fatty acid derivatives
+N03AX,/?code=N03AX&showdescription=yes,Other antiepileptics
+N04AA,/?code=N04AA&showdescription=yes,Tertiary amines
+N04AB,/?code=N04AB&showdescription=yes,Ethers chemically close to antihistamines
+N04AC,/?code=N04AC&showdescription=yes,Ethers of tropine or tropine derivatives
+N04BA,/?code=N04BA&showdescription=yes,Dopa and dopa derivatives
+N04BB,/?code=N04BB&showdescription=yes,Adamantane derivatives
+N04BC,/?code=N04BC&showdescription=yes,Dopamine agonists
+N04BD,/?code=N04BD&showdescription=yes,Monoamine oxidase B inhibitors
+N04BX,/?code=N04BX&showdescription=yes,Other dopaminergic agents
+N04CX,/?code=N04CX&showdescription=yes,Other antiparkinson drugs
+N05AA,/?code=N05AA&showdescription=yes,Phenothiazines with aliphatic side-chain
+N05AB,/?code=N05AB&showdescription=yes,Phenothiazines with piperazine structure
+N05AC,/?code=N05AC&showdescription=yes,Phenothiazines with piperidine structure
+N05AD,/?code=N05AD&showdescription=yes,Butyrophenone derivatives
+N05AE,/?code=N05AE&showdescription=yes,Indole derivatives
+N05AF,/?code=N05AF&showdescription=yes,Thioxanthene derivatives
+N05AG,/?code=N05AG&showdescription=yes,Diphenylbutylpiperidine derivatives
+N05AH,/?code=N05AH&showdescription=yes,"Diazepines, oxazepines, thiazepines and oxepines"
+N05AL,/?code=N05AL&showdescription=yes,Benzamides
+N05AN,/?code=N05AN&showdescription=yes,Lithium
+N05AX,/?code=N05AX&showdescription=yes,Other antipsychotics
+N05BA,/?code=N05BA&showdescription=yes,Benzodiazepine derivatives
+N05BB,/?code=N05BB&showdescription=yes,Diphenylmethane derivatives
+N05BC,/?code=N05BC&showdescription=yes,Carbamates
+N05BD,/?code=N05BD&showdescription=yes,Dibenzo-bicyclo-octadiene derivatives
+N05BE,/?code=N05BE&showdescription=yes,Azaspirodecanedione derivatives
+N05BX,/?code=N05BX&showdescription=yes,Other anxiolytics
+N05CA,/?code=N05CA&showdescription=yes,"Barbiturates, plain"
+N05CB,/?code=N05CB&showdescription=yes,"Barbiturates, combinations"
+N05CC,/?code=N05CC&showdescription=yes,Aldehydes and derivatives
+N05CD,/?code=N05CD&showdescription=yes,Benzodiazepine derivatives
+N05CE,/?code=N05CE&showdescription=yes,Piperidinedione derivatives
+N05CF,/?code=N05CF&showdescription=yes,Benzodiazepine related drugs
+N05CH,/?code=N05CH&showdescription=yes,Melatonin receptor agonists
+N05CM,/?code=N05CM&showdescription=yes,Other hypnotics and sedatives
+N05CX,/?code=N05CX&showdescription=yes,"Hypnotics and sedatives in combination, excl. barbiturates"
+N06AA,/?code=N06AA&showdescription=yes,Non-selective monoamine reuptake inhibitors
+N06AB,/?code=N06AB&showdescription=yes,Selective serotonin reuptake inhibitors
+N06AF,/?code=N06AF&showdescription=yes,"Monoamine oxidase inhibitors, non-selective"
+N06AG,/?code=N06AG&showdescription=yes,Monoamine oxidase A inhibitors
+N06AX,/?code=N06AX&showdescription=yes,Other antidepressants
+N06BA,/?code=N06BA&showdescription=yes,Centrally acting sympathomimetics
+N06BC,/?code=N06BC&showdescription=yes,Xanthine derivatives
+N06BX,/?code=N06BX&showdescription=yes,Other psychostimulants and nootropics
+N06CA,/?code=N06CA&showdescription=yes,Antidepressants in combination with psycholeptics
+N06CB,/?code=N06CB&showdescription=yes,Psychostimulants in combination with psycholeptics
+N06DA,/?code=N06DA&showdescription=yes,Anticholinesterases
+N06DX,/?code=N06DX&showdescription=yes,Other anti-dementia drugs
+N07AA,/?code=N07AA&showdescription=yes,Anticholinesterases
+N07AB,/?code=N07AB&showdescription=yes,Choline esters
+N07AX,/?code=N07AX&showdescription=yes,Other parasympathomimetics
+N07BA,/?code=N07BA&showdescription=yes,Drugs used in nicotine dependence
+N07BB,/?code=N07BB&showdescription=yes,Drugs used in alcohol dependence
+N07BC,/?code=N07BC&showdescription=yes,Drugs used in opioid dependence
+N07CA,/?code=N07CA&showdescription=yes,Antivertigo preparations
+N07XA,/?code=N07XA&showdescription=yes,Gangliosides and ganglioside derivatives
+N07XX,/?code=N07XX&showdescription=yes,Other nervous system drugs
+P01AA,/?code=P01AA&showdescription=yes,Hydroxyquinoline derivatives
+P01AB,/?code=P01AB&showdescription=yes,Nitroimidazole derivatives
+P01AC,/?code=P01AC&showdescription=yes,Dichloroacetamide derivatives
+P01AR,/?code=P01AR&showdescription=yes,Arsenic compounds
+P01AX,/?code=P01AX&showdescription=yes,Other agents against amoebiasis and other protozoal diseases
+P01BA,/?code=P01BA&showdescription=yes,Aminoquinolines
+P01BB,/?code=P01BB&showdescription=yes,Biguanides
+P01BC,/?code=P01BC&showdescription=yes,Methanolquinolines
+P01BD,/?code=P01BD&showdescription=yes,Diaminopyrimidines
+P01BE,/?code=P01BE&showdescription=yes,"Artemisinin and derivatives, plain"
+P01BF,/?code=P01BF&showdescription=yes,"Artemisinin and derivatives, combinations"
+P01BX,/?code=P01BX&showdescription=yes,Other antimalarials
+P01CA,/?code=P01CA&showdescription=yes,Nitroimidazole derivatives
+P01CB,/?code=P01CB&showdescription=yes,Antimony compounds
+P01CC,/?code=P01CC&showdescription=yes,Nitrofuran derivatives
+P01CD,/?code=P01CD&showdescription=yes,Arsenic compounds
+P01CX,/?code=P01CX&showdescription=yes,Other agents against leishmaniasis and trypanosomiasis
+P02BA,/?code=P02BA&showdescription=yes,Quinoline derivatives and related substances
+P02BB,/?code=P02BB&showdescription=yes,Organophosphorous compounds
+P02BX,/?code=P02BX&showdescription=yes,Other antitrematodal agents
+P02CA,/?code=P02CA&showdescription=yes,Benzimidazole derivatives
+P02CB,/?code=P02CB&showdescription=yes,Piperazine and derivatives
+P02CC,/?code=P02CC&showdescription=yes,Tetrahydropyrimidine derivatives
+P02CE,/?code=P02CE&showdescription=yes,Imidazothiazole derivatives
+P02CF,/?code=P02CF&showdescription=yes,Avermectines
+P02CX,/?code=P02CX&showdescription=yes,Other antinematodals
+P02DA,/?code=P02DA&showdescription=yes,Salicylic acid derivatives
+P02DX,/?code=P02DX&showdescription=yes,Other anticestodals
+P03AA,/?code=P03AA&showdescription=yes,Sulfur containing products
+P03AB,/?code=P03AB&showdescription=yes,Chlorine containing products
+P03AC,/?code=P03AC&showdescription=yes,"Pyrethrines, incl. synthetic compounds"
+P03AX,/?code=P03AX&showdescription=yes,"Other ectoparasiticides, incl. scabicides"
+P03BA,/?code=P03BA&showdescription=yes,Pyrethrines
+P03BX,/?code=P03BX&showdescription=yes,Other insecticides and repellents
+R01AA,/?code=R01AA&showdescription=yes,"Sympathomimetics, plain"
+R01AB,/?code=R01AB&showdescription=yes,"Sympathomimetics, combinations excl. corticosteroids"
+R01AC,/?code=R01AC&showdescription=yes,"Antiallergic agents, excl. corticosteroids"
+R01AD,/?code=R01AD&showdescription=yes,Corticosteroids
+R01AX,/?code=R01AX&showdescription=yes,Other nasal preparations
+R01BA,/?code=R01BA&showdescription=yes,Sympathomimetics
+R02AA,/?code=R02AA&showdescription=yes,Antiseptics
+R02AB,/?code=R02AB&showdescription=yes,Antibiotics
+R02AD,/?code=R02AD&showdescription=yes,"Anesthetics, local"
+R02AX,/?code=R02AX&showdescription=yes,Other throat preparations
+R03AA,/?code=R03AA&showdescription=yes,Alpha- and beta-adrenoreceptor agonists
+R03AB,/?code=R03AB&showdescription=yes,Non-selective beta-adrenoreceptor agonists
+R03AC,/?code=R03AC&showdescription=yes,Selective beta-2-adrenoreceptor agonists
+R03AH,/?code=R03AH&showdescription=yes,Combinations of adrenergics
+R03AK,/?code=R03AK&showdescription=yes,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics"
+R03AL,/?code=R03AL&showdescription=yes,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+R03BA,/?code=R03BA&showdescription=yes,Glucocorticoids
+R03BB,/?code=R03BB&showdescription=yes,Anticholinergics
+R03BC,/?code=R03BC&showdescription=yes,"Antiallergic agents, excl. corticosteroids"
+R03BX,/?code=R03BX&showdescription=yes,"Other drugs for obstructive airway diseases, inhalants"
+R03CA,/?code=R03CA&showdescription=yes,Alpha- and beta-adrenoreceptor agonists
+R03CB,/?code=R03CB&showdescription=yes,Non-selective beta-adrenoreceptor agonists
+R03CC,/?code=R03CC&showdescription=yes,Selective beta-2-adrenoreceptor agonists
+R03CK,/?code=R03CK&showdescription=yes,Adrenergics and other drugs for obstructive airway diseases
+R03DA,/?code=R03DA&showdescription=yes,Xanthines
+R03DB,/?code=R03DB&showdescription=yes,Xanthines and adrenergics
+R03DC,/?code=R03DC&showdescription=yes,Leukotriene receptor antagonists
+R03DX,/?code=R03DX&showdescription=yes,Other systemic drugs for obstructive airway diseases
+R05CA,/?code=R05CA&showdescription=yes,Expectorants
+R05CB,/?code=R05CB&showdescription=yes,Mucolytics
+R05DA,/?code=R05DA&showdescription=yes,Opium alkaloids and derivatives
+R05DB,/?code=R05DB&showdescription=yes,Other cough suppressants
+R05FA,/?code=R05FA&showdescription=yes,Opium derivatives and expectorants
+R05FB,/?code=R05FB&showdescription=yes,Other cough suppressants and expectorants
+R06AA,/?code=R06AA&showdescription=yes,Aminoalkyl ethers
+R06AB,/?code=R06AB&showdescription=yes,Substituted alkylamines
+R06AC,/?code=R06AC&showdescription=yes,Substituted ethylene diamines
+R06AD,/?code=R06AD&showdescription=yes,Phenothiazine derivatives
+R06AE,/?code=R06AE&showdescription=yes,Piperazine derivatives
+R06AK,/?code=R06AK&showdescription=yes,Combinations of antihistamines
+R06AX,/?code=R06AX&showdescription=yes,Other antihistamines for systemic use
+R07AA,/?code=R07AA&showdescription=yes,Lung surfactants
+R07AB,/?code=R07AB&showdescription=yes,Respiratory stimulants
+R07AX,/?code=R07AX&showdescription=yes,Other respiratory system products
+S01AA,/?code=S01AA&showdescription=yes,Antibiotics
+S01AB,/?code=S01AB&showdescription=yes,Sulfonamides
+S01AD,/?code=S01AD&showdescription=yes,Antivirals
+S01AE,/?code=S01AE&showdescription=yes,Fluoroquinolones
+S01AX,/?code=S01AX&showdescription=yes,Other antiinfectives
+S01BA,/?code=S01BA&showdescription=yes,"Corticosteroids, plain"
+S01BB,/?code=S01BB&showdescription=yes,Corticosteroids and mydriatics in combination
+S01BC,/?code=S01BC&showdescription=yes,"Antiinflammatory agents, non-steroids"
+S01CA,/?code=S01CA&showdescription=yes,Corticosteroids and antiinfectives in combination
+S01CB,/?code=S01CB&showdescription=yes,Corticosteroids/antiinfectives/mydriatics in combination
+S01CC,/?code=S01CC&showdescription=yes,"Antiinflammatory agents, non-steroids and antiinfectives in combination"
+S01EA,/?code=S01EA&showdescription=yes,Sympathomimetics in glaucoma therapy
+S01EB,/?code=S01EB&showdescription=yes,Parasympathomimetics
+S01EC,/?code=S01EC&showdescription=yes,Carbonic anhydrase inhibitors
+S01ED,/?code=S01ED&showdescription=yes,Beta blocking agents
+S01EE,/?code=S01EE&showdescription=yes,Prostaglandin analogues
+S01EX,/?code=S01EX&showdescription=yes,Other antiglaucoma preparations
+S01FA,/?code=S01FA&showdescription=yes,Anticholinergics
+S01FB,/?code=S01FB&showdescription=yes,Sympathomimetics excl. antiglaucoma preparations
+S01GA,/?code=S01GA&showdescription=yes,Sympathomimetics used as decongestants
+S01GX,/?code=S01GX&showdescription=yes,Other antiallergics
+S01HA,/?code=S01HA&showdescription=yes,Local anesthetics
+S01JA,/?code=S01JA&showdescription=yes,Colouring agents
+S01JX,/?code=S01JX&showdescription=yes,Other ophthalmological diagnostic agents
+S01KA,/?code=S01KA&showdescription=yes,Viscoelastic substances
+S01KX,/?code=S01KX&showdescription=yes,Other surgical aids
+S01LA,/?code=S01LA&showdescription=yes,Antineovascularisation agents
+S01XA,/?code=S01XA&showdescription=yes,Other ophthalmologicals
+S02AA,/?code=S02AA&showdescription=yes,Antiinfectives
+S02BA,/?code=S02BA&showdescription=yes,Corticosteroids
+S02CA,/?code=S02CA&showdescription=yes,Corticosteroids and antiinfectives in combination
+S02DA,/?code=S02DA&showdescription=yes,Analgesics and anesthetics
+S02DC,/?code=S02DC&showdescription=yes,Indifferent preparations
+S03AA,/?code=S03AA&showdescription=yes,Antiinfectives
+S03BA,/?code=S03BA&showdescription=yes,Corticosteroids
+S03CA,/?code=S03CA&showdescription=yes,Corticosteroids and antiinfectives in combination
+V01AA,/?code=V01AA&showdescription=yes,Allergen extracts
+V03AB,/?code=V03AB&showdescription=yes,Antidotes
+V03AC,/?code=V03AC&showdescription=yes,Iron chelating agents
+V03AE,/?code=V03AE&showdescription=yes,Drugs for treatment of hyperkalemia and hyperphosphatemia
+V03AF,/?code=V03AF&showdescription=yes,Detoxifying agents for antineoplastic treatment
+V03AG,/?code=V03AG&showdescription=yes,Drugs for treatment of hypercalcemia
+V03AH,/?code=V03AH&showdescription=yes,Drugs for treatment of hypoglycemia
+V03AK,/?code=V03AK&showdescription=yes,Tissue adhesives
+V03AM,/?code=V03AM&showdescription=yes,Drugs for embolisation
+V03AN,/?code=V03AN&showdescription=yes,Medical gases
+V03AX,/?code=V03AX&showdescription=yes,Other therapeutic products
+V03AZ,/?code=V03AZ&showdescription=yes,Nerve depressants
+V04CA,/?code=V04CA&showdescription=yes,Tests for diabetes
+V04CB,/?code=V04CB&showdescription=yes,Tests for fat absorption
+V04CC,/?code=V04CC&showdescription=yes,Tests for bile duct patency
+V04CD,/?code=V04CD&showdescription=yes,Tests for pituitary function
+V04CE,/?code=V04CE&showdescription=yes,Tests for liver functional capacity
+V04CF,/?code=V04CF&showdescription=yes,Tuberculosis diagnostics
+V04CG,/?code=V04CG&showdescription=yes,Tests for gastric secretion
+V04CH,/?code=V04CH&showdescription=yes,Tests for renal function and ureteral injuries
+V04CJ,/?code=V04CJ&showdescription=yes,Tests for thyreoidea function
+V04CK,/?code=V04CK&showdescription=yes,Tests for pancreatic function
+V04CL,/?code=V04CL&showdescription=yes,Tests for allergic diseases
+V04CM,/?code=V04CM&showdescription=yes,Tests for fertility disturbances
+V04CX,/?code=V04CX&showdescription=yes,Other diagnostic agents
+V06AA,/?code=V06AA&showdescription=yes,Low-energy diets
+V06CA,/?code=V06CA&showdescription=yes,Nutrients without phenylalanine
+V06DA,/?code=V06DA&showdescription=yes,"Carbohydrates/proteins/minerals/vitamins, combinations"
+V06DB,/?code=V06DB&showdescription=yes,"Fat/carbohydrates/proteins/minerals/vitamins, combinations"
+V06DC,/?code=V06DC&showdescription=yes,Carbohydrates
+V06DD,/?code=V06DD&showdescription=yes,"Amino acids, incl. combinations with polypeptides"
+V06DE,/?code=V06DE&showdescription=yes,"Amino acids/carbohydrates/minerals/vitamins, combinations"
+V06DF,/?code=V06DF&showdescription=yes,Milk substitutes
+V06DX,/?code=V06DX&showdescription=yes,Other combinations of nutrients
+V07AA,/?code=V07AA&showdescription=yes,Plasters
+V07AB,/?code=V07AB&showdescription=yes,"Solvents and diluting agents, incl. irrigating solutions"
+V07AC,/?code=V07AC&showdescription=yes,"Blood transfusion, auxiliary products"
+V07AD,/?code=V07AD&showdescription=yes,"Blood tests, auxiliary products"
+V07AN,/?code=V07AN&showdescription=yes,Incontinence equipment
+V07AR,/?code=V07AR&showdescription=yes,"Sensitivity tests, discs and tablets"
+V07AS,/?code=V07AS&showdescription=yes,Stomi equipment
+V07AT,/?code=V07AT&showdescription=yes,Cosmetics
+V07AV,/?code=V07AV&showdescription=yes,Technical disinfectants
+V07AX,/?code=V07AX&showdescription=yes,Washing agents etc.
+V07AY,/?code=V07AY&showdescription=yes,Other non-therapeutic auxiliary products
+V07AZ,/?code=V07AZ&showdescription=yes,Chemicals and reagents for analysis
+V08AA,/?code=V08AA&showdescription=yes,"Watersoluble, nephrotropic, high osmolar X-ray contrast media"
+V08AB,/?code=V08AB&showdescription=yes,"Watersoluble, nephrotropic, low osmolar X-ray contrast media"
+V08AC,/?code=V08AC&showdescription=yes,"Watersoluble, hepatotropic X-ray contrast media"
+V08AD,/?code=V08AD&showdescription=yes,Non-watersoluble X-ray contrast media
+V08BA,/?code=V08BA&showdescription=yes,Barium sulfate containing X-ray contrast media
+V08CA,/?code=V08CA&showdescription=yes,Paramagnetic contrast media
+V08CB,/?code=V08CB&showdescription=yes,Superparamagnetic contrast media
+V08CX,/?code=V08CX&showdescription=yes,Other magnetic resonance imaging contrast media
+V08DA,/?code=V08DA&showdescription=yes,Ultrasound contrast media
+V09AA,/?code=V09AA&showdescription=yes,Technetium (99mTc) compounds
+V09AB,/?code=V09AB&showdescription=yes,Iodine (123I) compounds
+V09AX,/?code=V09AX&showdescription=yes,Other central nervous system diagnostic radiopharmaceuticals
+V09BA,/?code=V09BA&showdescription=yes,Technetium (99mTc) compounds
+V09CA,/?code=V09CA&showdescription=yes,Technetium (99mTc) compounds
+V09CX,/?code=V09CX&showdescription=yes,Other renal system diagnostic radiopharmaceuticals
+V09DA,/?code=V09DA&showdescription=yes,Technetium (99mTc) compounds
+V09DB,/?code=V09DB&showdescription=yes,"Technetium (99mTc), particles and colloids"
+V09DX,/?code=V09DX&showdescription=yes,Other hepatic and reticulo endothelial system diagnostic radiopharmaceuticals
+V09EA,/?code=V09EA&showdescription=yes,"Technetium (99mTc), inhalants"
+V09EB,/?code=V09EB&showdescription=yes,"Technetium (99mTc), particles for injection"
+V09EX,/?code=V09EX&showdescription=yes,Other respiratory system diagnostic radiopharmaceuticals
+V09FX,/?code=V09FX&showdescription=yes,Various thyroid diagnostic radiopharmaceuticals
+V09GA,/?code=V09GA&showdescription=yes,Technetium (99mTc) compounds
+V09GB,/?code=V09GB&showdescription=yes,Iodine (125I) compounds
+V09GX,/?code=V09GX&showdescription=yes,Other cardiovascular system diagnostic radiopharmaceuticals
+V09HA,/?code=V09HA&showdescription=yes,Technetium (99mTc) compounds
+V09HB,/?code=V09HB&showdescription=yes,Indium (111In) compounds
+V09HX,/?code=V09HX&showdescription=yes,Other diagnostic radiopharmaceuticals for inflammation and infection detection
+V09IA,/?code=V09IA&showdescription=yes,Technetium (99mTc) compounds
+V09IB,/?code=V09IB&showdescription=yes,Indium (111In) compounds
+V09IX,/?code=V09IX&showdescription=yes,Other diagnostic radiopharmaceuticals for tumour detection
+V09XA,/?code=V09XA&showdescription=yes,Iodine (131I) compounds
+V09XX,/?code=V09XX&showdescription=yes,Various diagnostic radiopharmaceuticals
+V10AA,/?code=V10AA&showdescription=yes,Yttrium (90Y) compounds
+V10AX,/?code=V10AX&showdescription=yes,Other antiinflammatory therapeutic radiopharmaceuticals
+V10BX,/?code=V10BX&showdescription=yes,Various pain palliation radiopharmaceuticals
+V10XA,/?code=V10XA&showdescription=yes,Iodine (131I) compounds
+V10XX,/?code=V10XX&showdescription=yes,Various therapeutic radiopharmaceuticals

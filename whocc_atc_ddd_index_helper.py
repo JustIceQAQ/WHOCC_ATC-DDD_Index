@@ -1,6 +1,7 @@
 from lxml import etree
 import requests
 from bs4 import BeautifulSoup
+import asyncio
 
 VALUE_ERROR_INFO = "Your code_list is None or empty."
 
@@ -16,8 +17,13 @@ class AtcDddIndex:
         self.level_3_data = None
         self.level_4_data = None
         self.level_5_data = None
+        self.loop = asyncio.get_event_loop()
 
     def _requests_to_soup(self, code):
+        response = self.requests.get(self.atc_ddd_url + code)
+        return BeautifulSoup(response.text, 'lxml')
+
+    async def async_requests_to_soup(self, code):
         response = self.requests.get(self.atc_ddd_url + code)
         return BeautifulSoup(response.text, 'lxml')
 
@@ -27,14 +33,28 @@ class AtcDddIndex:
         code_name = a_element.get("href").split("&")[0].split("=")[-1]
         return {"code_name": code_name, "href": href, "text": text, "edges": {}}
 
-    def _jobs(self, code_list, level):
+    async def job(self, code, level):
+        parsing = await self.async_requests_to_soup(code)
+        data_list = [self._wash_a_element(i) for i in parsing.select('b a')]
+        data_list = data_list[:level] if level == 1 else data_list[level - 1:]
+        return data_list
+
+    def _jobs(self, code_list, level, async_=False):
         temp = []
-        for code in code_list:
-            print(f"Runung {code} Code...")
-            parsing = self._requests_to_soup(code)
-            data_list = [self._wash_a_element(i) for i in parsing.select('b a')]
-            data_list = data_list[:level] if level == 1 else data_list[level - 1:]
-            temp.extend(data_list)
+        if async_:
+
+            tasks = [
+                asyncio.ensure_future(self.job(code, level))
+                for code in code_list
+            ]
+            self.loop.run_until_complete(asyncio.wait(tasks))
+        else:
+            for code in code_list:
+                print(f"Runung {code} Code...")
+                parsing = self._requests_to_soup(code)
+                data_list = [self._wash_a_element(i) for i in parsing.select('b a')]
+                data_list = data_list[:level] if level == 1 else data_list[level - 1:]
+                temp.extend(data_list)
         return temp
 
     def get_table_to_dict(self, parsing):
