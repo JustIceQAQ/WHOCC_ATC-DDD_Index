@@ -7,6 +7,8 @@ Used Python3 Web Crawler for WHOCC ATC/DDD Index
   - string
   - tqdm
   - numpy
+  - asyncio
+  - httpx
 
 
 WHOCC URL https://www.whocc.no/atc_ddd_index/?code=
