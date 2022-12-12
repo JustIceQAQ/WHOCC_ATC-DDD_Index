@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 class WHOCCAtcDddIndex:
     def __init__(self, loop=None):
         self.ACT_DDD_ROOT = "https://www.whocc.no/atc_ddd_index"
-        self.ATC_RE = r"([\w\d]+)\s+\<b\>\<a\s?href\=\"\.(\/\?.+?)\">([\w\s\.\\\/\,\-]+)\<\/a\>"
+        self.ATC_RE = r"([\w\d]+)\s+\<b\>\<a\s?href\=\"\.(\/\?.+?)\">([\w\s\.\\\/\,\-\(\)]+)\<\/a\>"
         self.parse = BeautifulSoup
         self.client = httpx.AsyncClient()
         self.loop = asyncio.get_event_loop() if loop is None else loop
