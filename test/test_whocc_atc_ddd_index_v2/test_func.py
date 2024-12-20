@@ -67,6 +67,7 @@ async def test_get_l5():
     for item in l5_result:
         assert isinstance(item, AtcL5Format)
 
+
 @pytest.mark.asyncio
 async def test_export_csv():
     v2 = WHOCCAtcDddIndexV2()
