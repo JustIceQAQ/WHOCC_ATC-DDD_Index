@@ -10,6 +10,9 @@ def csv_store(
     import pathlib
 
     if data is not None:
+        folder = pathlib.Path("export_csv")
+        if not folder.exists():
+            folder.mkdir(exist_ok=True)
         with open(pathlib.Path("export_csv") / f"{filename}.csv", "w") as fp:
             writer = csv.DictWriter(fp, fieldnames=fieldnames, lineterminator="\n")
             writer.writeheader()

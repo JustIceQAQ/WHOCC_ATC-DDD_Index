@@ -5,7 +5,7 @@ from itertools import chain
 import httpx
 from bs4 import BeautifulSoup
 
-from whocc import AtcL1234Format, AtcL5Format
+from .schemas import AtcL1234Format, AtcL5Format
 
 
 class WHOCCAtcDddIndexV2:
@@ -142,6 +142,10 @@ class WHOCCAtcDddIndexV2:
         self.l5.sort(key=lambda d: d.code)
         return self.l5
 
+    async def get_all_data(self, clean_cache: bool = False):
+        if (self.l5 is None) or clean_cache:
+            await self.get_l5(clean_cache)
+
     def export_csv(self):
         from whocc.export import csv_store
 
@@ -152,3 +156,12 @@ class WHOCCAtcDddIndexV2:
         csv_store("l3", l1234_fieldnames, self.l3)
         csv_store("l4", l1234_fieldnames, self.l4)
         csv_store("l5", l5_fieldnames, self.l5)
+
+
+async def main():
+    v2 = WHOCCAtcDddIndexV2()
+    await v2.get_all_data()
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
