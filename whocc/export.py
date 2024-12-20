@@ -1,4 +1,5 @@
 from .schemas import AtcL1234Format, AtcL5Format
+import pathlib
 
 
 def csv_store(
@@ -7,7 +8,6 @@ def csv_store(
     data: list[AtcL1234Format | AtcL5Format] | None,
 ) -> None:
     import csv
-    import pathlib
 
     if data is not None:
         folder = pathlib.Path("export_csv")
@@ -18,3 +18,26 @@ def csv_store(
             writer.writeheader()
             for item in data:
                 writer.writerow(item.model_dump(exclude_defaults=True, by_alias=True))
+
+
+def xlsx_store(
+    filename: str,
+    fieldnames: list[str],
+    data: list[AtcL1234Format | AtcL5Format] | None,
+):
+    from openpyxl import Workbook
+
+    if data is not None:
+        folder = pathlib.Path("export_xlsx")
+        if not folder.exists():
+            folder.mkdir(exist_ok=True)
+
+        wb = Workbook()
+        ws = wb.active
+        ws.title = f"WHOCCAtcDddIndex_{filename}"
+        ws.append(fieldnames)
+        for item in data:
+            ws.append(
+                list(item.model_dump(exclude_defaults=True, by_alias=True).values())
+            )
+        wb.save(folder / f"{filename}.xlsx")
