@@ -1,15 +1,6 @@
 # WHOCC_ATC-DDD_Index
-Used Python3 Web Crawler for WHOCC ATC/DDD Index 
-- package:
-  - requests
-  - BeautifulSoup
-  - pandas
-  - string
-  - tqdm
-  - numpy
-  - asyncio
-  - httpx
 
+Used Python3 Web Crawler for WHOCC ATC/DDD Index
 
 WHOCC URL https://www.whocc.no/atc_ddd_index/?code=
 
