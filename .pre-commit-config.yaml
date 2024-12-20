@@ -31,5 +31,5 @@ repos:
     rev: v1.3.1
     hooks:
       - id: python-safety-dependencies-check
-        files: requirements/production.txt
+        files: requirements.txt
 #        args: [ "--ignore=42194,51668,58755,60194", "--disable-telemetry" ]
