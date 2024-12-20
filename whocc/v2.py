@@ -15,9 +15,9 @@ class WHOCCAtcDddIndexV2:
         self.client = httpx.AsyncClient(timeout=None)
         self.l1: list[AtcL1234Format] | None = None
         self.l2: list[AtcL1234Format] | None = None
-        self.l3 = None
-        self.l4 = None
-        self.l5 = None
+        self.l3: list[AtcL1234Format] | None = None
+        self.l4: list[AtcL1234Format] | None = None
+        self.l5: list[AtcL5Format] | None = None
 
     async def close(self):
         await self.client.aclose()
@@ -147,7 +147,7 @@ class WHOCCAtcDddIndexV2:
             await self.get_l5(clean_cache)
 
     def export_csv(self):
-        from whocc.export import csv_store
+        from .export import csv_store
 
         l1234_fieldnames = list(AtcL1234Format.model_json_schema()["properties"].keys())
         l5_fieldnames = list(AtcL5Format.model_json_schema()["properties"].keys())
@@ -156,6 +156,17 @@ class WHOCCAtcDddIndexV2:
         csv_store("l3", l1234_fieldnames, self.l3)
         csv_store("l4", l1234_fieldnames, self.l4)
         csv_store("l5", l5_fieldnames, self.l5)
+
+    def export_xlsx(self):
+        from .export import xlsx_store
+
+        l1234_fieldnames = list(AtcL1234Format.model_json_schema()["properties"].keys())
+        l5_fieldnames = list(AtcL5Format.model_json_schema()["properties"].keys())
+        xlsx_store("l1", l1234_fieldnames, self.l1)
+        xlsx_store("l2", l1234_fieldnames, self.l2)
+        xlsx_store("l3", l1234_fieldnames, self.l3)
+        xlsx_store("l4", l1234_fieldnames, self.l4)
+        xlsx_store("l5", l5_fieldnames, self.l5)
 
 
 async def main():

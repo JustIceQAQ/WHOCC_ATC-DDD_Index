@@ -73,3 +73,10 @@ async def test_export_csv():
     v2 = WHOCCAtcDddIndexV2()
     await v2.get_l5()
     v2.export_csv()
+
+
+@pytest.mark.asyncio
+async def test_export_xlsx():
+    v2 = WHOCCAtcDddIndexV2()
+    await v2.get_l5()
+    v2.export_xlsx()
