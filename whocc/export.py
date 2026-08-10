@@ -1,11 +1,12 @@
-from .schemas import AtcL1234Format, AtcL5Format
 import pathlib
+
+from .schemas import AtcL1234Format, AtcL5Format
 
 
 def csv_store(
-    filename: str,
-    fieldnames: list[str],
-    data: list[AtcL1234Format | AtcL5Format] | None,
+        filename: str,
+        fieldnames: list[str],
+        data: list[AtcL1234Format | AtcL5Format] | None,
 ) -> None:
     import csv
 
@@ -21,11 +22,15 @@ def csv_store(
 
 
 def xlsx_store(
-    filename: str,
-    fieldnames: list[str],
-    data: list[AtcL1234Format | AtcL5Format] | None,
+        filename: str,
+        fieldnames: list[str],
+        data: list[AtcL1234Format | AtcL5Format] | None,
 ):
-    from openpyxl import Workbook
+    try:
+        from openpyxl import Workbook
+    except ImportError as e:
+        msg = "if you need xlsx_store pls `uv add openpyxl`"
+        raise ImportError(msg) from e
 
     if data is not None:
         folder = pathlib.Path("export_xlsx")

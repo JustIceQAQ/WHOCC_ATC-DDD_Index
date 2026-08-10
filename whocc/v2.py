@@ -2,17 +2,18 @@ import asyncio
 import re
 from itertools import chain
 
-import httpx
+import httpx2 as httpx
 from bs4 import BeautifulSoup
 
 from .schemas import AtcL1234Format, AtcL5Format
+from .symbol import ACT_DDD_ROOT_URL
 
 
 class WHOCCAtcDddIndexV2:
     def __init__(self):
-        self.act_ddd_root = "https://atcddd.fhi.no/atc_ddd_index/"
+        self.act_ddd_root = ACT_DDD_ROOT_URL
         self.atc_re = r"([\w\d]+)\s+\<b\>\<a\s?href\=\"\.(\/\?.+?)\">([\w\s\.\\\/\,\-\(\)]+)\<\/a\>"
-        self.client = httpx.AsyncClient(timeout=None)
+        self.client = httpx.AsyncClient(timeout=None, follow_redirects=True)
         self.l1: list[AtcL1234Format] | None = None
         self.l2: list[AtcL1234Format] | None = None
         self.l3: list[AtcL1234Format] | None = None
@@ -31,8 +32,8 @@ class WHOCCAtcDddIndexV2:
         return BeautifulSoup(context, "lxml")
 
     async def format_l5(
-        self,
-        url: str,
+            self,
+            url: str,
     ) -> list[AtcL5Format]:
         response = await self._get_to_check_raise_for_status(url)
         parsed = self._parsed_to_soup(response.text)
@@ -47,7 +48,7 @@ class WHOCCAtcDddIndexV2:
             for tr in tr_list[1:]:
                 item = {}
                 for column, td in zip(
-                    ["ATC code", "Name", "DDD", "U", "Adm.R", "Note"], tr.findAll("td")
+                        ["ATC code", "Name", "DDD", "U", "Adm.R", "Note"], tr.findAll("td")
                 ):
                     if column == "Name":
                         item["url"] = self.act_ddd_root + td.find("a").get("href")[2:]
@@ -60,8 +61,8 @@ class WHOCCAtcDddIndexV2:
         return datalist
 
     async def format_l234(
-        self,
-        url: str,
+            self,
+            url: str,
     ) -> list[AtcL1234Format]:
         response = await self._get_to_check_raise_for_status(url)
         parsed = self._parsed_to_soup(response.text)
@@ -167,12 +168,3 @@ class WHOCCAtcDddIndexV2:
         xlsx_store("l3", l1234_fieldnames, self.l3)
         xlsx_store("l4", l1234_fieldnames, self.l4)
         xlsx_store("l5", l5_fieldnames, self.l5)
-
-
-async def main():
-    v2 = WHOCCAtcDddIndexV2()
-    await v2.get_all_data()
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
