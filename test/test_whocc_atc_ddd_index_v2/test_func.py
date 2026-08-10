@@ -1,4 +1,5 @@
 import pytest
+
 from whocc.schemas import AtcL1234Format, AtcL5Format
 from whocc.v2 import WHOCCAtcDddIndexV2
 
@@ -13,8 +14,8 @@ async def test_get_l1():
 
 
 @pytest.mark.asyncio
-async def test_format_l234():
-    url = "https://atcddd.fhi.no/atc_ddd_index/?code=A&showdescription=no"
+async def test_format_l234(source_root_url):
+    url = f"{source_root_url}?code=A&showdescription=no"
     v2 = WHOCCAtcDddIndexV2()
     response = await v2.format_l234(url)
     assert isinstance(response, list)
@@ -23,8 +24,8 @@ async def test_format_l234():
 
 
 @pytest.mark.asyncio
-async def test_format_l5():
-    url = "https://atcddd.fhi.no/atc_ddd_index/?code=A01AA01&showdescription=yes"
+async def test_format_l5(source_root_url):
+    url = f"{source_root_url}?code=A01AA01&showdescription=yes"
     v2 = WHOCCAtcDddIndexV2()
     response = await v2.format_l5(url)
     assert isinstance(response, list)
