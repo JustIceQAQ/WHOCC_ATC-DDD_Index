@@ -1,6 +1,6 @@
 import pytest
 
-from whocc.schemas import AtcL1234Format, AtcL5Format
+from whocc.schemas import AtcL5Format, AtcL1234Format
 from whocc.v2 import WHOCCAtcDddIndexV2
 
 

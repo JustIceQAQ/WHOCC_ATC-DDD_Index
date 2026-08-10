@@ -5,7 +5,7 @@ from itertools import chain
 import httpx2 as httpx
 from bs4 import BeautifulSoup
 
-from .schemas import AtcL1234Format, AtcL5Format
+from .schemas import AtcL5Format, AtcL1234Format
 from .symbol import ACT_DDD_ROOT_URL
 
 
@@ -32,8 +32,8 @@ class WHOCCAtcDddIndexV2:
         return BeautifulSoup(context, "lxml")
 
     async def format_l5(
-            self,
-            url: str,
+        self,
+        url: str,
     ) -> list[AtcL5Format]:
         response = await self._get_to_check_raise_for_status(url)
         parsed = self._parsed_to_soup(response.text)
@@ -48,7 +48,7 @@ class WHOCCAtcDddIndexV2:
             for tr in tr_list[1:]:
                 item = {}
                 for column, td in zip(
-                        ["ATC code", "Name", "DDD", "U", "Adm.R", "Note"], tr.findAll("td")
+                    ["ATC code", "Name", "DDD", "U", "Adm.R", "Note"], tr.findAll("td"), strict=False
                 ):
                     if column == "Name":
                         item["url"] = self.act_ddd_root + td.find("a").get("href")[2:]
@@ -61,13 +61,13 @@ class WHOCCAtcDddIndexV2:
         return datalist
 
     async def format_l234(
-            self,
-            url: str,
+        self,
+        url: str,
     ) -> list[AtcL1234Format]:
         response = await self._get_to_check_raise_for_status(url)
         parsed = self._parsed_to_soup(response.text)
         runtime_element = parsed.select_one("#last_updated").previousSibling
-        if getattr(runtime_element, "name") == "p":
+        if runtime_element.name == "p":
             content = str(runtime_element)
             atc_dataset = re.findall(self.atc_re, content)
             return [
@@ -83,9 +83,7 @@ class WHOCCAtcDddIndexV2:
         if (self.l1 is None) or clean_cache:
             response = await self._get_to_check_raise_for_status(self.act_ddd_root)
             parsed = self._parsed_to_soup(response.text)
-            content = str(
-                parsed.select_one("#content > div:nth-child(5) > div:nth-child(2) > p")
-            )
+            content = str(parsed.select_one("#content > div:nth-child(5) > div:nth-child(2) > p"))
             atc_dataset = re.findall(self.atc_re, content)
             self.l1 = [
                 AtcL1234Format(
@@ -102,9 +100,7 @@ class WHOCCAtcDddIndexV2:
             l1 = await self.get_l1(clean_cache)
         else:
             l1 = self.l1
-        task_results = await asyncio.gather(
-            *[self.format_l234(item.url) for item in l1]
-        )
+        task_results = await asyncio.gather(*[self.format_l234(item.url) for item in l1])
         self.l2 = list(chain.from_iterable(task_results))
         self.l2.sort(key=lambda d: d.code)
         return self.l2
@@ -114,9 +110,7 @@ class WHOCCAtcDddIndexV2:
             l2 = await self.get_l2(clean_cache)
         else:
             l2 = self.l2
-        task_results = await asyncio.gather(
-            *[self.format_l234(item.url) for item in l2]
-        )
+        task_results = await asyncio.gather(*[self.format_l234(item.url) for item in l2])
         self.l3 = list(chain.from_iterable(task_results))
         self.l3.sort(key=lambda d: d.code)
         return self.l3
@@ -126,9 +120,7 @@ class WHOCCAtcDddIndexV2:
             l3 = await self.get_l3(clean_cache)
         else:
             l3 = self.l3
-        task_results = await asyncio.gather(
-            *[self.format_l234(item.url) for item in l3]
-        )
+        task_results = await asyncio.gather(*[self.format_l234(item.url) for item in l3])
         self.l4 = list(chain.from_iterable(task_results))
         self.l4.sort(key=lambda d: d.code)
         return self.l4

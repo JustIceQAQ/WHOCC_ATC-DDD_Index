@@ -4,40 +4,41 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
+classifiers = [
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14",
+]
 dependencies = [
-    "bs4>=0.0.2",
-    "httpx2>=2.10.0",
-    "lxml>=6.1.1",
-    "pydantic>=2.13.4",
+  "bs4>=0.0.2",
+  "httpx2>=2.10",
+  "lxml>=6.1.1",
+  "pydantic>=2.13.4",
 ]
 
 [dependency-groups]
 dev = [
-    "pre-commit>=4.6.1",
-    "pytest>=9.1.1",
-    "pytest-asyncio>=1.4.0",
+  "pre-commit>=4.6.1",
+  "pytest>=9.1.1",
+  "pytest-asyncio>=1.4",
 ]
 
 [tool.ruff]
 line-length = 120
-
-[tool.ruff.lint]
-select = [
-    "E", # pycodestyle errors
-    "W", # pycodestyle warnings
-    "F", # pyflakes
-    "I", # isort
-    "B", # flake8-bugbear
-    "C4", # flake8-comprehensions
-    "UP", # pyupgrade
+lint.select = [
+  "B",  # flake8-bugbear
+  "C4", # flake8-comprehensions
+  "E",  # pycodestyle errors
+  "F",  # pyflakes
+  "I",  # isort
+  "UP", # pyupgrade
+  "W",  # pycodestyle warnings
 ]
-ignore = [
-    "E501", # line too long, handled by black
-    "B008", # do not perform function calls in argument defaults
-    "C901", # too complex
-    "E402",
+lint.ignore = [
+  "B008", # do not perform function calls in argument defaults
+  "C901", # too complex
+  "E402",
+  "E501", # line too long, handled by black
 ]
-
-[tool.ruff.lint.pyupgrade]
 # Preserve types, even if a file imports `from __future__ import annotations`.
-keep-runtime-typing = true
+lint.pyupgrade.keep-runtime-typing = true

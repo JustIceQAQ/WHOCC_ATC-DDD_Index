@@ -1,12 +1,12 @@
 import pathlib
 
-from .schemas import AtcL1234Format, AtcL5Format
+from .schemas import AtcL5Format, AtcL1234Format
 
 
 def csv_store(
-        filename: str,
-        fieldnames: list[str],
-        data: list[AtcL1234Format | AtcL5Format] | None,
+    filename: str,
+    fieldnames: list[str],
+    data: list[AtcL1234Format | AtcL5Format] | None,
 ) -> None:
     import csv
 
@@ -22,9 +22,9 @@ def csv_store(
 
 
 def xlsx_store(
-        filename: str,
-        fieldnames: list[str],
-        data: list[AtcL1234Format | AtcL5Format] | None,
+    filename: str,
+    fieldnames: list[str],
+    data: list[AtcL1234Format | AtcL5Format] | None,
 ):
     try:
         from openpyxl import Workbook
@@ -42,7 +42,5 @@ def xlsx_store(
         ws.title = f"WHOCCAtcDddIndex_{filename}"
         ws.append(fieldnames)
         for item in data:
-            ws.append(
-                list(item.model_dump(exclude_defaults=True, by_alias=True).values())
-            )
+            ws.append(list(item.model_dump(exclude_defaults=True, by_alias=True).values()))
         wb.save(folder / f"{filename}.xlsx")
