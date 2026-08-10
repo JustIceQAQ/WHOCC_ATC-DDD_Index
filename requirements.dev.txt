@@ -1,5 +1,0 @@
--r requirements.txt
-
-pytest # https://github.com/pytest-dev/pytest
-pytest-asyncio # https://github.com/pytest-dev/pytest-asyncio
-pre-commit # https://github.com/pre-commit/pre-commit
